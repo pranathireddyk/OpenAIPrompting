@@ -1,0 +1,737 @@
+[
+  {
+    "Component": "What is the type of application?",
+    "Labels": [
+      "Web Application",
+      "AWS",
+      "Elastic Beanstalk",
+      "Docker",
+      "RDS",
+      "Postgres"
+    ]
+  },
+  {
+    "Component": "Web Application",
+    "Labels": [
+      "AWS",
+      "EC2",
+      "Load Balancer",
+      "Scalability",
+      "RDS",
+      "Database Management",
+      "S3 Buckets",
+      "User Uploads"
+    ]
+  },
+  {
+    "Component": "Mobile Application",
+    "Labels": [
+      "UI",
+      "UX",
+      "Authentication",
+      "Authorization",
+      "Security",
+      "API",
+      "Backend",
+      "Database",
+      "Push Notifications",
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "Component": "Batch Processing",
+    "Labels": [
+      "Data Processing",
+      "Data Transformation",
+      "Batch Jobs",
+      "Cloud Computing Platform",
+      "Distributed Computing",
+      "Data Pipeline",
+      "AWS",
+      "GCP",
+      "Azure"
+    ]
+  },
+  {
+    "Component": "ETL",
+    "Labels": [
+      "MySQL",
+      "Apache Spark",
+      "Amazon Redshift",
+      "ETL Pipeline",
+      "Data Extraction",
+      "Data Transformation",
+      "Data Loading"
+    ]
+  },
+  {
+    "Component": "Do you have restful APIs in your application?",
+    "Labels": [
+      "Web API",
+      "HTTP methods",
+      "JSON",
+      "API endpoint",
+      "API versioning",
+      "API documentation",
+      "API security",
+      "API testing",
+      "API definition",
+      "OpenAPI",
+      "Swagger"
+    ]
+  },
+  {
+    "Component": "Does your application support SSO?",
+    "Labels": [
+      "Single Sign-On",
+      "Security",
+      "Identity Management",
+      "Authentication",
+      "Authorization"
+    ]
+  },
+  {
+    "Component": "Does your application require any SQL database?",
+    "Labels": [
+      "SQL",
+      "Database",
+      "Requirement check"
+    ]
+  },
+  {
+    "Component": "What is the type of SQL database?",
+    "Labels": [
+      "relational",
+      "structured query language",
+      "RDBMS",
+      "ACID property",
+      "transaction",
+      "table",
+      "column",
+      "row",
+      "primary key",
+      "foreign key",
+      "index",
+      "view",
+      "stored procedure",
+      "triggers"
+    ]
+  },
+  {
+    "Component": "Microsoft SQL Server",
+    "Labels": [
+      "Database Management System",
+      "Relational Database",
+      "RDBMS",
+      "Data Warehouse",
+      "Data Security",
+      "Microsoft Azure",
+      "Azure SQL Database",
+      "Cloud Database",
+      "Database backup",
+      "Database recovery",
+      "SQL Server Management Studio",
+      "T-SQL",
+      "Transact-SQL"
+    ]
+  },
+  {
+    "Component": "MySQL",
+    "Labels": [
+      "Relational Database",
+      "SQL",
+      "MariaDB",
+      "Database Management System",
+      "Cloud database",
+      "Google Cloud SQL"
+    ]
+  },
+  {
+    "Component": "Postgress",
+    "Labels": [
+      "Database",
+      "SQL",
+      "Relational",
+      "Open source",
+      "Cloud Provider: AWS"
+    ]
+  },
+  {
+    "Component": "SQLite",
+    "Labels": [
+      "Database",
+      "SQL",
+      "Relational",
+      "Storage",
+      "Embedded",
+      "Cross-platform",
+      "Open-source",
+      "C"
+    ]
+  },
+  {
+    "Component": "Are you using any unstructured database?",
+    "Labels": [
+      "NoSQL",
+      "Document Store",
+      "Key-Value Store",
+      "Column-oriented Database",
+      "MongoDB",
+      "CouchDB",
+      "Cassandra",
+      "Amazon DynamoDB",
+      "Google Cloud Firestore",
+      "Microsoft Azure Cosmos DB",
+      "Unstructured Data"
+    ]
+  },
+  {
+    "Component": "What kind of database are you using?",
+    "Labels": [
+      "NoSQL",
+      "SQL",
+      "Relational",
+      "Distributed",
+      "Cloud",
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL",
+      "Oracle",
+      "Microsoft",
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "Database Management",
+      "Data Storage",
+      "Data Retrieval",
+      "Data Manipulation"
+    ]
+  },
+  {
+    "Component": "JSON document",
+    "Labels": [
+      "data format",
+      "serialization",
+      "key-value pairs",
+      "JavaScript object notation",
+      "structured data",
+      "text-based",
+      "data exchange",
+      "RESTful APIs",
+      "cloud computing",
+      "Amazon Web Services",
+      "Azure",
+      "Google Cloud Platform",
+      "data storage",
+      "NoSQL database"
+    ]
+  },
+  {
+    "Component": "NoSQL",
+    "Labels": [
+      "Database",
+      "Key-Value Store",
+      "Document Store",
+      "Column Family Store",
+      "DynamoDB",
+      "Cassandra",
+      "MongoDB",
+      "Azure Cosmos DB",
+      "Google Cloud Datastore"
+    ]
+  },
+  {
+    "Component": "Are you doing load balancing for your application?",
+    "Labels": [
+      "Application",
+      "Traffic Distribution",
+      "Scalability",
+      "High Availability",
+      "AWS (Amazon Web Services)",
+      "Google Cloud",
+      "Azure",
+      "Algorithm",
+      "Round Robin",
+      "Least Connections",
+      "IP Hash"
+    ]
+  },
+  {
+    "Component": "Do you have any web application firewalls in place?",
+    "Labels": [
+      "Security",
+      "Web Application",
+      "Protection",
+      "Firewall",
+      "Threat Mitigation",
+      "Intrusion Prevention"
+    ]
+  },
+  {
+    "Component": "Are your endpoints accessible via HTTPS only?",
+    "Labels": [
+      "HTTPS",
+      "Endpoint Security",
+      "Cloud Security",
+      "TLS",
+      "Encryption",
+      "Network Security"
+    ]
+  },
+  {
+    "Component": "Where the application is hosted on?",
+    "Labels": [
+      "Cloud Hosting",
+      "On-Premises Hosting",
+      "Shared Hostin",
+      "Dedicated Hosting",
+      "Virtual Private Server (VPS) Hosting",
+      "Managed Hosting"
+    ]
+  },
+  {
+    "Component": "On-Prem Private Data Center",
+    "Labels": [
+      "physical infrastructure",
+      "private network",
+      "server rack",
+      "power distribution unit",
+      "on-premises",
+      "data center",
+      "security",
+      "backup",
+      "disaster recovery",
+      "IT management",
+      "networking",
+      "virtualization",
+      "storage"
+    ]
+  },
+  {
+  "Component": "Public Cloud Provider",
+    "Labels": [
+      "Amazon Web Services (AWS)",
+      "Microsoft Azure",
+      "Google Cloud Platform (GCP)",
+      "IBM Cloud",
+      "Oracle Cloud Infrastructure"
+    ]
+  },
+  {
+    "Component": "What cloud provider you are using?",
+    "Labels": [
+      "Amazon Web Services",
+      "EC2",
+      "Elastic Load Balancer",
+      "RDS"
+    ]
+  },
+  {
+    "Component": "AWS",
+    "Labels": [
+      "Amazon Web Services",
+      "EC2",
+      "Elastic Load Balancer",
+      "RDS"
+    ]
+  },
+  {
+    "Component": "Azure",
+    "Labels": [
+      "Microsoft Azure",
+      "Azure Virtual Machines",
+      "Azure Blob Storage",
+      "Azure SQL Database"
+    ]
+  },
+  {
+    "Component": "GCP",
+    "Labels": [
+      "Google Cloud Platform",
+      "Compute Engine",
+      "Cloud Storage",
+      "BigQuery"
+    ]
+  },
+  {
+    "Component": "Other",
+    "Labels": [
+      "AWS",
+      "boto3",
+      "Import"
+    ]
+  },
+  {
+    "Component": "Shared Hosting",
+    "Labels": [
+      "Web hosting",
+      "Server sharing",
+      "Resource sharing",
+      "cPanel",
+      "Plesk",
+      "WordPress hosting",
+      "PHP hosting",
+      "MySQL hosting",
+      "Email hosting",
+      "FTP hosting"
+    ]
+  },
+  {
+    "Component": "What is the architecture of the mobile application?",
+    "Labels": [
+      "Mobile Application",
+      "Architecture",
+      "Components",
+      "Front-end",
+      "Back-end",
+      "Server",
+      "Client",
+      "API",
+      "Database",
+      "User Interface",
+      "UX Design",
+      "Cloud Provider",
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "Firebase"
+    ]
+  },
+  {
+    "Component": "Monolithic",
+    "Labels": [
+      "Legacy",
+      "Traditional",
+      "Inflexible",
+      "Centralized",
+      "Scalability issues",
+      "Maintenance-heavy",
+      "Difficult to deploy",
+      "Difficult to update",
+      "Difficult to scale",
+      "Single point of failure"
+    ]
+  },
+  {
+    "Component": "Microservices",
+    "Labels": [
+      "API Gateway",
+      "Service Discovery",
+      "Load Balancing",
+      "Container Orchestration",
+      "Docker",
+      "Kubernetes",
+      "Cloud Provider: AWS",
+      "EC2",
+      "Lambda",
+      "API Gateway",
+      "Elastic Load Balancer",
+      "ECS",
+      "EKS",
+      "Cloud Provider: Google Cloud",
+      "Compute Engine",
+      "Container Engine",
+      "Cloud Load Balancing",
+      "Cloud Provider: Microsoft Azure",
+      "Service Fabric",
+      "Azure Kubernetes Service",
+      "Azure Container Instances",
+      "Azure Load Balancer",
+      "Azure Traffic Manager",
+      "Microservices Architecture",
+      "Service Mesh",
+      "Service Registry",
+      "Circuit Breaker",
+      "REST API",
+      "JSON"
+    ]
+  },
+  {
+    "Component": "Are you using any Container Orchestration tools?",
+    "Labels": [
+      "Kubernetes",
+      "K8s",
+      "Docker Swarm",
+      "Swarm",
+      "Mesos",
+      "AWS ECS",
+      "ECS",
+      "Google Kubernetes Engine",
+      "GKE",
+      "Azure Container Service",
+      "ACS",
+      "Container Orchestration",
+      "Container Management",
+      "Container Deployment"
+    ]
+  },
+  {
+    "Component": "Which Container Orchestration tool you are using?",
+    "Labels": [
+      "Kubernetes",
+      "Docker Swarm",
+      "Amazon ECS",
+      "Google Kubernetes Engine",
+      "Azure Kubernetes Service"
+    ]
+  },
+  {
+    "Component": "Kubernetes",
+    "Labels": [
+      "Container Orchestration",
+      "Deployment",
+      "Pod",
+      "Service",
+      "Secret",
+      "ConfigMap",
+      "Node",
+      "Cluster",
+      "Ingress",
+      "Namespace",
+      "Volume",
+      "Persistent Volume",
+      "Persistent Volume Claim",
+      "Horizontal Pod Autoscaler",
+      "Resource Quota",
+      "StatefulSet",
+      "DaemonSet",
+      "Job",
+      "CronJob",
+      "Kubectl",
+      "API Server",
+      "etcd",
+      "kube-apiserver",
+      "kube-controller-manager",
+      "kube-scheduler",
+      "kubelet",
+      "kube-proxy",
+      "kubectl apply",
+      "kubectl get",
+      "kubectl create",
+      "kubectl describe",
+      "kubectl delete",
+      "kubectl edit",
+      "kubectl exec",
+      "kubectl logs",
+      "kubectl rollout",
+      "kubectl scale",
+      "kubectl set",
+      "kubectl expose",
+      "kubectl run",
+      "kubectl cluster-info",
+      "kubectl version",
+      "Kubernetes API",
+      "Kubernetes Dashboard",
+      "Kubernetes Cluster",
+      "Kubernetes Namespace",
+      "Google Cloud Kubernetes",
+      "Azure Kubernetes Service",
+      "Amazon Elastic Kubernetes Service",
+      "IBM Cloud Kubernetes Service"
+    ]
+  },
+  {
+    "Component": "EKS",
+    "Labels": [
+      "Amazon",
+      "Kubernetes",
+      "Managed",
+      "Deploy",
+      "Manage",
+      "Scale",
+      "Containerized",
+      "Applications",
+      "AWS"
+    ]
+  },
+  {
+    "Component": "ECS",
+    "Labels": [
+      "Container Orchestration",
+      "Docker",
+      "Service Management",
+      "Amazon",
+      "Cloud Provider"
+    ]
+  },
+  {
+    "Component": "GKE",
+    "Labels": [
+      "Google Kubernetes Engine",
+      "cloud provider",
+      "Google Cloud Platform",
+      "container orchestration",
+      "managed Kubernetes service",
+      "Google Container Registry",
+      "Google Cloud SDK",
+      "Google Cloud Console",
+      "k8s",
+      "Kubernetes"
+    ]
+  },
+  {
+    "Component": "AKS",
+    "Labels": [
+      "Azure Kubernetes Service",
+      "Container Orchestration",
+      "Cloud Computing",
+      "Docker Management",
+      "Azure",
+      "Microsoft Cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "Component": "Does your application send an outbound email?",
+    "Labels": [
+      "Email Service",
+      "SMTP",
+      "Message Queue",
+      "Cloud Provider: AWS",
+      "SES",
+      "SNS",
+      "Lambda",
+      "API Gateway",
+      "Cloud Provider: Azure",
+      "SendGrid",
+      "Event Grid",
+      "Function App",
+      "Logic App",
+      "Cloud Provider: Google Cloud",
+      "Gmail",
+      "Pub/Sub",
+      "Cloud Functions"
+    ]
+  },
+  {
+    "Component": "Are you using a self-hosted SMTP Server?",
+    "Labels": [
+      "Email",
+      "SMTP Server",
+      "Self-hosted",
+      "Server Configuration"
+    ]
+  },
+  {
+    "Component": "Does your application use any queue to de-couple components?",
+    "Labels": [
+      "Message Queue",
+      "AWS",
+      "SQS",
+      "Messaging",
+      "Integration",
+      "Asynchronous",
+      "Decoupling",
+      "Event-Driven",
+      "Microservices"
+    ]
+  },
+  {
+    "Component": "Which queue are you using?",
+    "Labels": [
+      "Queue",
+      "Messaging",
+      "Cloud Provider",
+      "Amazon Web Services",
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "SQS",
+      "SNS",
+      "Cloud Messaging",
+      "Pub/Sub",
+      "Cloud Queue",
+      "Message Queue",
+      "Cloud Pub/Sub",
+      "Cloud Storage",
+      "Object Storage"
+    ]
+  },
+  {
+    "Component": "RabbitMQ",
+    "Labels": [
+      "message broker",
+      "queue model",
+      "distributed systems",
+      "asynchronous processing",
+      "reliability",
+      "scalability",
+      "Erlang"
+    ]
+  },
+  {
+    "Component": "AWS SQS",
+    "Labels": [
+      "cloud provider: AWS",
+      "message queue",
+      "microservices",
+      "distributed systems",
+      "serverless applications",
+      "send messages",
+      "store messages",
+      "receive messages",
+      "scalability"
+    ]
+  },
+  {
+    "Component": "Apache ActiveMQ",
+    "Labels": [
+      "Message Broker",
+      "Open-Source",
+      "Java",
+      "JMS",
+      "AMQP",
+      "MQTT",
+      "REST",
+      "SOAP",
+      "STOMP",
+      "Spring Framework",
+      "Enterprise Messaging System"
+    ]
+  },
+  {
+    "Component": "Is your application accessible from the public internet?",
+    "Labels": [
+      "Cloud Computing",
+      "Networking",
+      "AWS",
+      "Public Subnet",
+      "Internet Gateway",
+      "Security Group",
+      "Load Balancer",
+      "Web Application Firewall",
+      "VPN",
+      "Virtual Private Cloud",
+      "IP Address",
+      "DNS",
+      "HTTPS",
+      "SSL Certificate",
+      "HTTPS Listener",
+      "Backend Server",
+      "Auto Scaling Group",
+      "Elastic Load Balancing",
+      "Route 53"
+    ]
+  },
+  {
+    "Component": "Is your application & database server deployed in a public subnet?",
+    "Labels": [
+      "cloud",
+      "security",
+      "subnet",
+      "deployment",
+      "networking",
+      "application server",
+      "database server"
+    ]
+  },
+  {
+    "Component": "Is your application & database server deployed in the same subnet?",
+    "Labels": [
+      "Networking",
+      "Subnet",
+      "Cloud Provider"
+    ]
+  }
+]

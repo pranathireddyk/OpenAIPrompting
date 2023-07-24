@@ -1,0 +1,5352 @@
+[
+  {
+    "Component": "Azure Service Health",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Service Health",
+      "Azure Status",
+      "Azure Incident Management",
+      "Azure Service Outages",
+      "Azure Service Interruptions"
+    ]
+  },
+  {
+    "Component": "Azure Resource Group",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Resource Group",
+      "Azure Resource Manager",
+      "Azure Subscription Management",
+      "Azure Infrastructure Management",
+      "Azure Resource Deployment"
+    ]
+  },
+  {
+    "Component": "Azure Cloud Shell",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Cloud Shell",
+      "Azure CLI",
+      "Azure PowerShell",
+      "Azure Management Tools",
+      "Cloud-based Command Line Interface"
+    ]
+  },
+  {
+    "Component": "Azure Policy Definitions",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Policy Definitions",
+      "Azure Governance",
+      "Azure Resource Compliance",
+      "Azure Resource Management Policies",
+      "Azure Policy Enforcement"
+    ]
+  },
+  {
+    "Component": "Azure Managed Applications",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Managed Applications",
+      "Azure Marketplace",
+      "Azure Portal",
+      "Azure Management Services",
+      "Azure Application Management"
+    ]
+  },
+  {
+    "Component": "Azure Media Player",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Media Player",
+      "Azure Media Services",
+      "Azure Video Streaming",
+      "Azure Video Player",
+      "Azure Live Streaming"
+    ]
+  },
+  {
+    "Component": "Azure Content Protection",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Content Protection",
+      "Azure Media Services",
+      "Azure Media Protection",
+      "Content Encryption",
+      "Video Encryption"
+    ]
+  },
+  {
+    "Component": "Azure Media Analytics",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Media Analytics",
+      "Azure Media Services",
+      "Azure Cognitive Services",
+      "Video Analytics",
+      "Audio Analytics"
+    ]
+  },
+  {
+    "Component": "Azure Cost Management",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Cost Management",
+      "Azure Billing",
+      "Azure Spending",
+      "Azure Resource Optimization",
+      "Azure Usage Monitoring"
+    ]
+  },
+  {
+    "Component": "Azure Migrate",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Migrate",
+      "Azure Migration",
+      "Azure Cloud Migration",
+      "VM Migration",
+      "Data Migration"
+    ]
+  },
+  {
+    "Component": "Azure Maps",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Maps",
+      "Azure Location-based Services",
+      "Azure Geospatial Services",
+      "Azure Map APIs",
+      "Azure Mapping and Geocoding"
+    ]
+  },
+  {
+    "Component": "Azure Visual Studio App Center",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Visual Studio App Center",
+      "Mobile App Development",
+      "Azure Test Services",
+      "Azure Build Services",
+      "Continuous Integration and Delivery"
+    ]
+  },
+  {
+    "Component": "Azure DNS Zones",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "DNS Zones",
+      "Azure DNS",
+      "Azure Domain Name System",
+      "DNS Management",
+      "Domain Name Resolution"
+    ]
+  },
+  {
+    "Component": "Azure Network Watcher",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Network Watcher",
+      "Azure Network Monitoring",
+      "Azure Network Security",
+      "Azure Network Traffic Analytics",
+      "Azure Network Diagnostic Tools"
+    ]
+  },
+  {
+    "Component": "Azure Firewall",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Firewall",
+      "Azure Security",
+      "Azure Network Security",
+      "Azure Firewall Management",
+      "Azure Network Protection"
+    ]
+  },
+  {
+    "Component": "Azure Virtual WAN",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Virtual WAN",
+      "Azure Network Connectivity",
+      "Azure Branch Connectivity",
+      "Azure Site Connectivity",
+      "Azure Global Network"
+    ]
+  },
+  {
+    "Component": "Azure Front Door Instance",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Front Door Instance",
+      "Azure Content Delivery Network",
+      "Azure Global Load Balancing",
+      "Traffic Management",
+      "Web Application Firewall"
+    ]
+  },
+  {
+    "Component": "Azure Information Protection",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Information Protection",
+      "Azure Security",
+      "Azure Data Protection",
+      "Classifying and Labeling Data",
+      "Azure Data Encryption"
+    ]
+  },
+  {
+    "Component": "Azure Dedicated HSM",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Dedicated HSM",
+      "Azure Security",
+      "Azure Key Vault",
+      "Hardware Security Modules",
+      "Cloud Native Cryptography"
+    ]
+  },
+  {
+    "Component": "Azure VPN Gateway",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "VPN Gateway",
+      "Azure VPN",
+      "Azure Virtual Network",
+      "Azure Point-to-Site VPN",
+      "Azure Site-to-Site VPN"
+    ]
+  },
+  {
+    "Component": "Azure DDoS Protection Plan",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "DDoS Protection Plan",
+      "Azure Security",
+      "Azure Network Security",
+      "Azure DDoS Protection",
+      "Azure DDoS Mitigation"
+    ]
+  },
+  {
+    "Component": "Microsoft Defender for Identity",
+    "Cloud Provider": "",
+    "Labels": [
+      "Defender for Identity",
+      "Microsoft Security",
+      "Active Directory Protection",
+      "Identity and Access Management",
+      "Threat Detection"
+    ]
+  },
+  {
+    "Component": "Azure StorSimple Virtual Array",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "StorSimple Virtual Array",
+      "Azure Storage",
+      "Cloud Storage Management",
+      "Azure Data Protection",
+      "Hybrid Cloud Storage"
+    ]
+  },
+  {
+    "Component": "Azure Data Lake Storage Account",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Data Lake Storage Account",
+      "Azure Storage",
+      "Azure Data Management",
+      "Big Data Analytics",
+      "Hierarchical File System"
+    ]
+  },
+  {
+    "Component": "Azure Disk",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Azure Disk",
+      "Cloud Disks",
+      "Azure Storage",
+      "Virtual Machine Storage",
+      "Azure Block Storage"
+    ]
+  },
+  {
+    "Component": "Azure Data Box",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Data Box",
+      "Azure Data Migration",
+      "Azure Data Transfer",
+      "Azure Data Management",
+      "Bulk Data Transfer"
+    ]
+  },
+  {
+    "Component": "Avere vFXT Cluster",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Avere vFXT Cluster",
+      "Azure High-Performance Computing",
+      "Azure Storage",
+      "Hybrid Cloud Storage",
+      "Network File System"
+    ]
+  },
+  {
+    "Component": "Azure NetApp Account",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "NetApp Account",
+      "Azure Storage",
+      "Azure NetApp Files",
+      "Cloud-based File Storage",
+      "High-performance NFS and SMB file shares"
+    ]
+  },
+  {
+    "Component": "AWS IoT FreeRTOS",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "IoT FreeRTOS",
+      "AWS IoT",
+      "Embedded Operating System",
+      "Microcontrollers",
+      "Secure Data Transfer"
+    ]
+  },
+  {
+    "Component": "AWS IoT Device Management",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "IoT Device Management",
+      "AWS IoT",
+      "Device Provisioning",
+      "Device Configuration",
+      "Device Monitoring"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Network ACL",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EC2 Network ACL",
+      "AWS Network Management",
+      "Network Traffic Control",
+      "Virtual Firewall",
+      "Public and Private Network Segmentation"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Internet Gateway",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EC2 Internet Gateway",
+      "AWS Network Management",
+      "Internet Access Management",
+      "Virtual Gateway",
+      "Public and Private Network Connection"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 VPC Peering Connection",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EC2 VPC Peering Connection",
+      "AWS Network Management",
+      "Virtual Private Clouds",
+      "Private Network Connection",
+      "Interconnectivity of VPCs"
+    ]
+  },
+  {
+    "Component": "AWS Serverless Application Repository",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Serverless Application Repository",
+      "AWS Application Development",
+      "AWS Lambda",
+      "Serverless Architecture",
+      "Customizable Application Templates"
+    ]
+  },
+  {
+    "Component": "Amazon FSx",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "FSx",
+      "AWS Storage",
+      "Cloud-based File Storage",
+      "High-performance file system",
+      "Lustre and Windows File System"
+    ]
+  },
+  {
+    "Component": "AWS Backup",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Backup",
+      "AWS Data Management",
+      "AWS Storage",
+      "Data Backup and Recovery",
+      "Automated Backup and Storage"
+    ]
+  },
+  {
+    "Component": "Amazon DocumentDB",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "DocumentDB",
+      "AWS Database Services",
+      "Cloud-based Document Database",
+      "MongoDB Compatibility",
+      "Scalable and Secure"
+    ]
+  },
+  {
+    "Component": "AWS DataSync",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "DataSync",
+      "AWS Data Transfer",
+      "Cloud-based Data Transfer",
+      "Data Migration",
+      "Data Synchronization"
+    ]
+  },
+  {
+    "Component": "AWS Transfer for SFTP",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Transfer for SFTP",
+      "AWS FTP Management",
+      "Secure File Transfer",
+      "Simple File Transfer Protocol",
+      "FTP to SFTP Migration"
+    ]
+  },
+  {
+    "Component": "AWS Cloud Map",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Cloud Map",
+      "AWS Service Discovery",
+      "Cloud-based Service Mapping",
+      "Microservices",
+      "Service Registry"
+    ]
+  },
+  {
+    "Component": "AWS Global Accelerator",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Global Accelerator",
+      "AWS Network Management",
+      "Global Load Balancing",
+      "Traffic Management",
+      "Improved Application Performance"
+    ]
+  },
+  {
+    "Component": "AWS RoboMaker",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "RoboMaker",
+      "AWS Robotics",
+      "Robot Development Services",
+      "Simulation Environments",
+      "Robotics Application Deployment"
+    ]
+  },
+  {
+    "Component": "Amazon Managed Blockchain",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Managed Blockchain",
+      "AWS Blockchain Services",
+      "Cloud-based Blockchain Infrastructure",
+      "Decentralized Applications",
+      "Distributed Ledger Technology"
+    ]
+  },
+  {
+    "Component": "AWS Ground Station",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Ground Station",
+      "AWS Satellite Services",
+      "Satellite Data Processing",
+      "Satellite Antenna Network",
+      "Data Analysis"
+    ]
+  },
+  {
+    "Component": "AWS Control Tower",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Governance",
+      "Multi-account management",
+      "Security",
+      "Compliance",
+      "AWS Organizations",
+      "AWS Config",
+      "AWS CloudFormation"
+    ]
+  },
+  {
+    "Component": "AWS License Manager",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "License management",
+      "AWS resource allocation",
+      "Compliance",
+      "Optimization",
+      "Licensing rules",
+      "Licensing entitlements",
+      "Usage data"
+    ]
+  },
+  {
+    "Component": "AWS Well-Architected Tool",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Architecture",
+      "Best practices",
+      "Cloud architecture",
+      "Cost optimization",
+      "Security",
+      "Reliability",
+      "Performance efficiency"
+    ]
+  },
+  {
+    "Component": "Amazon Kinesis Video Streams",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Streaming",
+      "Real-time video ingestion",
+      "Object detection",
+      "Video analytics",
+      "Security",
+      "AWS SDKs"
+    ]
+  },
+  {
+    "Component": "AWS MediaConnect",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Video transport",
+      "Live video",
+      "Secure data transfer",
+      "Content contribution",
+      "Content distribution",
+      "Media services",
+      "Video processing"
+    ]
+  },
+  {
+    "Component": "AWS MediaConvert",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Media encoding",
+      "Video transcoding",
+      "Audio transcoding",
+      "File transcoding",
+      "Video on demand (VOD)",
+      "Live video",
+      "Closed captions",
+      "Packaging"
+    ]
+  },
+  {
+    "Component": "AWS MediaLive",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Live video",
+      "Video encoding",
+      "Video streaming",
+      "Video processing",
+      "Streaming workflow management",
+      "Video quality",
+      "Content delivery"
+    ]
+  },
+  {
+    "Component": "AWS MediaStore",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Storage",
+      "Media content",
+      "Content delivery",
+      "Object caching",
+      "Durability",
+      "Availability",
+      "Security"
+    ]
+  },
+  {
+    "Component": "AWS MediaTailor",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Video personalization",
+      "Dynamic ad insertion",
+      "Linear TV content",
+      "Live content",
+      "Video-on-demand (VOD)",
+      "Multi-screen delivery",
+      "Content monetization"
+    ]
+  },
+  {
+    "Component": "Amazon Personalize",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Machine learning",
+      "Recommendation systems",
+      "Personalization",
+      "Data",
+      "Real-time recommendations",
+      "Predictive analytics",
+      "Batch recommendations"
+    ]
+  },
+  {
+    "Component": "Amazon Forecast",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Machine learning",
+      "Time-series forecasting",
+      "Predictive analytics",
+      "Data visualization",
+      "Resource optimization",
+      "Cost-efficiency",
+      "Data transformation"
+    ]
+  },
+  {
+    "Component": "Amazon Textract",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Optical character recognition (OCR)",
+      "Machine learning",
+      "Document analysis",
+      "Data extraction",
+      "PDF",
+      "Forms",
+      "Tables"
+    ]
+  },
+  {
+    "Component": "AWS Resource Access Manager",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Resource sharing",
+      "Resource permissions",
+      "Resource discovery",
+      "Access management",
+      "Resource utilization",
+      "AWS Organizations",
+      "Cross-account sharing"
+    ]
+  },
+  {
+    "Component": "AWS Security Hub",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Security",
+      "Threat detection",
+      "Compliance",
+      "Vulnerability management",
+      "Trusted advisor",
+      "Security automation",
+      "CloudTrail",
+      "Config rules"
+    ]
+  },
+  {
+    "Component": "AWS Marketplace",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Software distribution",
+      "Software procurement",
+      "Software discovery",
+      "Software as a service (SaaS)",
+      "Infrastructure as a service (IaaS)",
+      "Managed services",
+      "Solutions",
+      "Machine learning"
+    ]
+  },
+  {
+    "Component": "AWS IoT Events",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Internet of Things (IoT)",
+      "Event-driven architecture",
+      "Real-time data processing",
+      "Monitoring",
+      "Alerting",
+      "Resource optimization",
+      "Cost-efficiency"
+    ]
+  },
+  {
+    "Component": "AWS IoT SiteWise",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Industrial IoT",
+      "Asset monitoring",
+      "Equipment monitoring",
+      "Facility monitoring",
+      "Data acquisition",
+      "Data analysis",
+      "AWS IoT Greengrass"
+    ]
+  },
+  {
+    "Component": "AWS IoT Things Graph",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Internet of Things (IoT)",
+      "Graphical representation",
+      "Device modeling",
+      "Device communication",
+      "Device automation",
+      "Third-party and custom integration",
+      "AWS IoT Greengrass Core"
+    ]
+  },
+  {
+    "Component": "Amazon WorkLink",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Secure mobile access",
+      "Mobile device management",
+      "Mobile web apps",
+      "Virtual private network (VPN)",
+      "Bring-your-own-device (BYOD)",
+      "Content delivery",
+      "Simplified access",
+      "Amazon VPC"
+    ]
+  },
+  {
+    "Component": "Amazon Chime",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Unified communication",
+      "Messaging",
+      "Voice",
+      "Video",
+      "Screen sharing",
+      "Online meetings",
+      "Application sharing",
+      "Security"
+    ]
+  },
+  {
+    "Component": "Alexa for Business",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Voice assistant",
+      "Enterprise",
+      "Meeting scheduling",
+      "Room booking",
+      "Conference management",
+      "Personal assistant",
+      "Content integration",
+      "Device management"
+    ]
+  },
+  {
+    "Component": "Customer Engagement Service",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Analytics",
+      "Marketing",
+      "Mobile Push Notifications",
+      "Email Campaigns",
+      "SMS Messaging",
+      "Voice Messaging",
+      "Multi-Channel Targeting"
+    ]
+  },
+  {
+    "Component": "Contact Center",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "CTI (Computer Telephony Integration)",
+      "Cloud-Based Contact Center",
+      "IVR (Interactive Voice Response) System",
+      "Call Routing",
+      "Real-Time Analytics",
+      "Voice Conferencing"
+    ]
+  },
+  {
+    "Component": "Workflow Automation Service",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "State Machines",
+      "Lambda Functions",
+      "Error Handling",
+      "Distributed Application Orchestration",
+      "Serverless Applications",
+      "Event-Driven Architecture"
+    ]
+  },
+  {
+    "Component": "Development Platform",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "React Native",
+      "Mobile and Web App Development",
+      "GraphQL API",
+      "Authentication and Authorization",
+      "Serverless GraphQL APIs",
+      "Push Notifications"
+    ]
+  },
+  {
+    "Component": "Object Storage",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Highly Scalable",
+      "Resilient",
+      "Secure",
+      "Data Durability",
+      "Static Website Hosting",
+      "Data Archiving",
+      "Big Data Analytics",
+      "Backup and Disaster Recovery"
+    ]
+  },
+  {
+    "Component": "Object Storage",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS S3 Bucket",
+      "Highly Scalable",
+      "Resilient",
+      "Secure",
+      "Data Durability",
+      "Static Website Hosting",
+      "Data Archiving",
+      "Big Data Analytics",
+      "Backup and Disaster Recovery"
+    ]
+  },
+  {
+    "Component": "Database Service",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Distributed Ledger Database",
+      "Immutable Data",
+      "ACID Transactions",
+      "Serverless Applications",
+      "Data History Tracking",
+      "Cryptographically Verified Transactions",
+      "Transaction Logging",
+      "Managed Blockchain Service",
+      "Integration with AWS Services"
+    ]
+  },
+  {
+    "Component": "Hybrid Cloud",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Outposts",
+      "On-Premises Infrastructure",
+      "Compute and Storage Services",
+      "Hybrid Cloud Configurations",
+      "Seamless Integration with AWS",
+      "Low Latency Access",
+      "Data Sovereignty",
+      "Consistent Operational Model",
+      "Consistent APIs"
+    ]
+  },
+  {
+    "Component": "Time Series Database",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Fast, Scalable, and Serverless",
+      "Metrics Collection and Analysis",
+      "Internet of Things (IoT)",
+      "Industrial Telemetry",
+      "Application Monitoring",
+      "Data Retention Management",
+      "Time-Ordered Data Storage",
+      "Built-in Time Functions and Analytics",
+      "Integration with AWS Services"
+    ]
+  },
+  {
+    "Component": "Security Information and Event Management (SIEM)",
+    "Cloud Provider": "Microsoft Azure",
+    "Labels": [
+      "Protecting Hybrid Environments",
+      "Security Analytics",
+      "Threat Detection",
+      "Incident Response",
+      "Security Orchestration",
+      "Automated Alerting",
+      "Built-In AI",
+      "Compliance Standards",
+      "Integration Microsoft Security Stack"
+    ]
+  },
+  {
+    "Component": "Service Networking",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS PrivateLink",
+      "Secure and Private Connectivity",
+      "VPC (Virtual Private Cloud)",
+      "Secure Data Sharing",
+      "Virtual Interface",
+      "Endpoint Service",
+      "Endpoint Policies",
+      "Security Control",
+      "Integration with AWS Services"
+    ]
+  },
+  {
+    "Component": "Subnet",
+    "Cloud Provider": "Microsoft Azure",
+    "Labels": [
+      "Virtual Network",
+      "IP Address Range",
+      "Network Security",
+      "Azure Services Access",
+      "Network Traffic Flow",
+      "Security Boundaries",
+      "Isolation",
+      "Subnet Management"
+    ]
+  },
+  {
+    "Component": "Public IP Address",
+    "Cloud Provider": "Microsoft Azure",
+    "Labels": [
+      "Dynamic or Static IP Address",
+      "Internet-Facing Connectivity",
+      "Ingress Traffic",
+      "Load Balancer",
+      "Firewall",
+      "NAT (Network Address Translation)",
+      "IP Address Management",
+      "Billing Model",
+      "DNS Resolution"
+    ]
+  },
+  {
+    "Component": "Network Interface",
+    "Cloud Provider": "Microsoft Azure",
+    "Labels": [
+      "Virtual Network",
+      "Network Security",
+      "IP Configuration",
+      "MAC Address",
+      "Secure Traffic",
+      "High Availability",
+      "Load Balancing",
+      "Internal Traffic Management",
+      "Azure Services Access"
+    ]
+  },
+  {
+    "Component": "Message Queue Service",
+    "Cloud Provider": "Microsoft Azure",
+    "Labels": [
+      "Azure Service Bus Queues",
+      "Asynchronous Communication",
+      "Distributed Systems",
+      "Scalability",
+      "Highly Available",
+      "Reliable Message Delivery",
+      "Brokered Messaging",
+      "Ordering Messages",
+      "Dead-Letter Queue"
+    ]
+  },
+  {
+    "Component": "Publish/Subscribe Messaging Service",
+    "Cloud Provider": "Microsoft Azure",
+    "Labels": [
+      "Azure Service Bus Topics",
+      "Asynchronous Communication",
+      "Distributed Systems",
+      "Scalability",
+      "Highly Available",
+      "Reliable Message Delivery",
+      "Brokered Messaging",
+      "Multiple Subscription",
+      "Topic Filters"
+    ]
+  },
+  {
+    "Component": "DevTest Labs",
+    "Cloud Provider": "Microsoft Azure",
+    "Labels": [
+      "Formulas",
+      "Customizable VM Images",
+      "Azure Virtual Machines",
+      "Instantiating Lab Environments",
+      "PowerShell Scripts",
+      "Azure Resource Manager Templates",
+      "Cost Optimization",
+      "Testing and Development Activities",
+      "DevOps Processes"
+    ]
+  },
+  {
+    "Component": "Event Grid",
+    "Cloud Provider": "Microsoft Azure",
+    "Labels": [
+      "Event Grid Subscriptions",
+      "Cloud Events",
+      "Service Integration",
+      "Event-Based Architecture",
+      "Asynchronous Messaging",
+      "Distributed Systems",
+      "Scalability",
+      "Reliability",
+      "Cost Efficiency"
+    ]
+  },
+  {
+    "Component": "Sensor",
+    "Cloud Provider": "",
+    "Labels": [
+      "Proximity Detection",
+      "Distance Measurement",
+      "Object Detection",
+      "Presence Detection",
+      "Gesture Recognition",
+      "Touchless Interaction",
+      "Smart Home Automation",
+      "Industrial Automation"
+    ]
+  },
+  {
+    "Component": "Sensor",
+    "Cloud Provider": "",
+    "Labels": [
+      "Accelerometer",
+      "Motion Detection",
+      "Vibration Monitoring",
+      "Tilt and Inclination Measurement",
+      "Collision Detection",
+      "Fitness Tracking",
+      "Navigation",
+      "Gesture Recognition"
+    ]
+  },
+  {
+    "Component": "Sensor",
+    "Cloud Provider": "",
+    "Labels": [
+      "Infrared Sensor",
+      "Proximity Detection",
+      "Motion Detection",
+      "Object Detection",
+      "Flame Detection",
+      "Temperature Sensing",
+      "Gas Detection",
+      "Occupancy Sensing"
+    ]
+  },
+  {
+    "Component": "Sensor",
+    "Cloud Provider": "",
+    "Labels": [
+      "Pressure Sensor",
+      "Barometric Sensing",
+      "Fluid Level Monitoring",
+      "Flow Rate Measurement",
+      "Industrial Automation",
+      "HVAC (Heating, Ventilation and Air Conditioning) Systems",
+      "Altitude Measurement",
+      "Navigation"
+    ]
+  },
+  {
+    "Component": "Sensor",
+    "Cloud Provider": "",
+    "Labels": [
+      "Light Sensor",
+      "Brightness Detection",
+      "Color Detection",
+      "Object Detection",
+      "Ambient Light Sensing",
+      "Smart Home Automation",
+      "Security Systems",
+      "Industrial Automation"
+    ]
+  },
+  {
+    "Component": "Sensor",
+    "Cloud Provider": "",
+    "Labels": [
+      "Ultrasonic Sensor",
+      "Distance Measurement",
+      "Object Detection",
+      "Proximity Detection",
+      "Fluid Level Monitoring",
+      "Medical Imaging",
+      "Smart Home Automation",
+      "Industrial Automation"
+    ]
+  },
+  {
+    "Component": "Smoke Detector",
+    "Cloud Provider": "",
+    "Labels": [
+      "Fire Safety",
+      "Smoke Detection",
+      "Carbon Monoxide (CO) Detection",
+      "Toxic Gas Detection",
+      "Smart Home Automation",
+      "Building Automation",
+      "Industrial Automation",
+      "Occupancy Sensing"
+    ]
+  },
+  {
+    "Component": "Sensor",
+    "Cloud Provider": "",
+    "Labels": [
+      "Touch Sensor",
+      "Touch Detection",
+      "Button Detection",
+      "Gesture Recognition",
+      "Smart Home Automation",
+      "Industrial Automation",
+      "Fitness Tracking",
+      "Medical Wearables"
+    ]
+  },
+  {
+    "Component": "Sensor",
+    "Cloud Provider": "",
+    "Labels": [
+      "Color Sensor",
+      "Color Detection",
+      "Color Measurement",
+      "Color Sorting",
+      "Color Sensing",
+      "Industrial Automation",
+      "Smart Home Automation",
+      "Medical Imaging"
+    ]
+  },
+  {
+    "Component": "Sensor",
+    "Cloud Provider": "",
+    "Labels": [
+      "Tilt Sensor",
+      "Inclination Measurement",
+      "Vibration Monitoring",
+      "Motion Detection",
+      "Industrial Automation",
+      "Smart Home Automation",
+      "Security Systems",
+      "HVAC (Heating, Ventilation and Air Conditioning) Systems"
+    ]
+  },
+  {
+    "Component": "Sensor",
+    "Cloud Provider": "",
+    "Labels": [
+      "Flow Sensor",
+      "Flow Rate Measurement",
+      "Liquid Flow Monitoring",
+      "Gas Flow Monitoring",
+      "Industrial Automation",
+      "Smart Home Automation",
+      "HVAC (Heating, Ventilation and Air Conditioning) Systems",
+      "Fluid Level Monitoring"
+    ]
+  },
+  {
+    "Component": "Sensor",
+    "Cloud Provider": "",
+    "Labels": [
+      "Level Sensor",
+      "Fluid Level Monitoring",
+      "Liquid Level Detection",
+      "Solid Level Detection",
+      "Industrial Automation",
+      "Smart Home Automation",
+      "HVAC (Heating, Ventilation and Air Conditioning) Systems",
+      "Medical Devices"
+    ]
+  },
+  {
+    "Component": "Sensor",
+    "Cloud Provider": "",
+    "Labels": [
+      "Image Sensor",
+      "Image Capture",
+      "Image Processing",
+      "Image Recognition",
+      "Medical Imaging",
+      "Industrial Automation",
+      "Smart Home Automation",
+      "Surveillance Systems"
+    ]
+  },
+  {
+    "Component": "Wireless Communication Protocol",
+    "Cloud Provider": "",
+    "Labels": [
+      "Z-Wave",
+      "IoT (Internet of Things) Devices",
+      "Mesh Networking",
+      "Low-Power Wireless Network",
+      "Smart Home Automation",
+      "Security Systems",
+      "Energy Management Systems",
+      "Remote Control",
+      "Wireless Sensor Network"
+    ]
+  },
+  {
+    "Component": "Wireless Communication Protocol",
+    "Cloud Provider": "",
+    "Labels": [
+      "Near Field Communication (NFC)",
+      "Contactless Data Transfer",
+      "Mobile Payments",
+      "ID and Access Control",
+      "Smart Home Automation",
+      "Industrial Automation",
+      "Security Systems",
+      "Data Exchange",
+      "Inventory Tracking"
+    ]
+  },
+  {
+    "Component": "Application Layer Protocol",
+    "Cloud Provider": "",
+    "Labels": [
+      "Constrained Application Protocol (CoAP)",
+      "Embedded Systems",
+      "Machine to Machine (M2M) Communication",
+      "IoT (Internet of Things) Devices",
+      "Resource-Constrained Network",
+      "RESTful Architecture",
+      "IP (Internet Protocol) Connectivity",
+      "Low-Power Network",
+      "Sensor Networks"
+    ]
+  },
+  {
+    "Component": "Application Layer Protocol",
+    "Cloud Provider": "",
+    "Labels": [
+      "Advanced Message Queuing Protocol (AMQP)",
+      "Message-Oriented Middleware (MOM)",
+      "Open Standard",
+      "Brokered Messaging",
+      "Asynchronous Communication",
+      "Distributed Systems",
+      "Scalability",
+      "Reliability",
+      "Integration with Legacy Systems"
+    ]
+  },
+  {
+    "Component": "DDS",
+    "Labels": [
+      "Data Distribution Service",
+      "Real-time Communication",
+      "Middleware"
+    ],
+    "Cloud Provider": null
+  },
+  {
+    "Component": "PLC",
+    "Labels": [
+      "Programmable Logic Controller",
+      "Industrial Automation",
+      "Hardware"
+    ],
+    "Cloud Provider": null
+  },
+  {
+    "Component": "PIC",
+    "Labels": [
+      "Peripheral Interface Controller",
+      "Microcontroller",
+      "Hardware"
+    ],
+    "Cloud Provider": null
+  },
+  {
+    "Component": "CAN Bus",
+    "Labels": [
+      "Controller Area Network Bus",
+      "Real-time communication",
+      "Automotive Network Protocol"
+    ],
+    "Cloud Provider": null
+  },
+  {
+    "Component": "Fieldbus",
+    "Labels": [
+      "Industrial Network Protocol",
+      "Real-time Communication",
+      "Process Automation"
+    ],
+    "Cloud Provider": null
+  },
+  {
+    "Component": "Microcontroller",
+    "Labels": [
+      "Integrated Circuit",
+      "Embedded System",
+      "Hardware"
+    ],
+    "Cloud Provider": null
+  },
+  {
+    "Component": "RTU",
+    "Labels": [
+      "Remote Terminal Unit",
+      "Industrial Automation",
+      "Hardware"
+    ],
+    "Cloud Provider": null
+  },
+  {
+    "Component": "Humidity Sensor",
+    "Labels": [
+      "Sensor",
+      "Environmental Monitoring",
+      "IoT"
+    ],
+    "Cloud Provider": null
+  },
+  {
+    "Component": "Device Controller",
+    "Labels": [
+      "Device Management",
+      "IoT",
+      "Hardware Abstraction"
+    ],
+    "Cloud Provider": null
+  },
+  {
+    "Component": "Digital Video Recorder",
+    "Labels": [
+      "Surveillance",
+      "Video Management System",
+      "Hardware"
+    ],
+    "Cloud Provider": null
+  },
+  {
+    "Component": "Air Conditioner",
+    "Labels": [
+      "HVAC",
+      "Climate Control",
+      "Hardware"
+    ],
+    "Cloud Provider": null
+  },
+  {
+    "Component": "DVR",
+    "Labels": [
+      "Digital Video Recorder",
+      "Surveillance",
+      "Hardware"
+    ],
+    "Cloud Provider": null
+  },
+  {
+    "Component": "App Engine",
+    "Labels": [
+      "Platform-as-a-Service",
+      "Web Application Development",
+      "Serverless",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Functions",
+    "Labels": [
+      "Serverless",
+      "Function-as-a-Service",
+      "Event-driven Computing",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Compute Engine Instance",
+    "Labels": [
+      "Infrastructure-as-a-Service",
+      "Virtual Machine",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Bigtable",
+    "Labels": [
+      "NoSQL Database",
+      "Columnar Database",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Datastore",
+    "Labels": [
+      "NoSQL Database",
+      "Document-oriented Database",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Spanner Instance",
+    "Labels": [
+      "Relational Database",
+      "Distributed Database",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud SQL",
+    "Labels": [
+      "Managed Relational Database Service",
+      "MySQL",
+      "PostgreSQL",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Storage Bucket",
+    "Labels": [
+      "Object Storage Service",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Persistent Disk",
+    "Labels": [
+      "Block Storage Service",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud CDN",
+    "Labels": [
+      "Content Delivery Network",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Firewall Rules",
+    "Labels": [
+      "Network Security",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Load Balancer",
+    "Labels": [
+      "Load Balancing",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Dataflow",
+    "Labels": [
+      "ETL",
+      "Stream Processing",
+      "Batch Processing",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Dataproc Cluster",
+    "Labels": [
+      "Managed Hadoop and Spark",
+      "Data Analytics",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Talent Solution API",
+    "Labels": [
+      "Job Search and Talent Acquisition",
+      "Machine Learning",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud AI Platform",
+    "Labels": [
+      "Machine Learning",
+      "Deep Learning",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud IAM",
+    "Labels": [
+      "Identity and Access Management",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Identity-Aware Proxy",
+    "Labels": [
+      "Access Management",
+      "Authorization",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Titan Security Key",
+    "Labels": [
+      "Physical Authentication Key",
+      "Two-factor authentication",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud APIs",
+    "Labels": [
+      "Application Programming Interface",
+      "Web Services",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Error Reporting",
+    "Labels": [
+      "Error Tracking",
+      "Debugging",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Logging",
+    "Labels": [
+      "Log Management",
+      "Monitoring",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Monitoring",
+    "Labels": [
+      "Application Monitoring",
+      "Infrastructure Monitoring",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Operations",
+    "Labels": [
+      "Operations Management",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Web Security Scanner",
+    "Labels": [
+      "Vulnerability Scanner",
+      "Web Application Security",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Data Loss Prevention API",
+    "Labels": [
+      "Sensitive Data Detection",
+      "Data Classification",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Key Management Service",
+    "Labels": [
+      "Key Management",
+      "Data Encryption",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Container Registry",
+    "Labels": [
+      "Docker Container Registry",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "GPU",
+    "Labels": [
+      "Graphics Processing Unit",
+      "Hardware Acceleration",
+      "Machine Learning",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud DNS",
+    "Labels": [
+      "Domain Name System",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Interconnect",
+    "Labels": [
+      "Direct Peering",
+      "Dedicated Connectivity",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Router",
+    "Labels": [
+      "Dynamic Routing",
+      "Software-defined Networking",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud VPN",
+    "Labels": [
+      "Virtual Private Network",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud BigQuery Dataset",
+    "Labels": [
+      "Data Warehousing",
+      "Data Analysis",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Datalab Instance",
+    "Labels": [
+      "Data Science Platform",
+      "Jupyter Notebook",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Dataprep",
+    "Labels": [
+      "Data Wrangling",
+      "Data Preparation",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Pub-Sub",
+    "Labels": [
+      "Messaging Service",
+      "Asynchronous Communication",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Data Studio",
+    "Labels": [
+      "Data Visualization",
+      "Business Intelligence",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Life Sciences",
+    "Labels": [
+      "Healthcare Data Management",
+      "Genomics",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Natural Language API",
+    "Labels": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Speech-to-text API",
+    "Labels": [
+      "Speech Recognition",
+      "Natural Language Processing",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Translation API",
+    "Labels": [
+      "Language Translation",
+      "Natural Language Processing",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Cloud Video Intelligence API",
+    "Labels": [
+      "Video Analysis",
+      "Machine Learning",
+      "Google Cloud"
+    ],
+    "Cloud Provider": "GCP"
+  },
+  {
+    "Component": "Google Cloud Vision API",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Image Analysis",
+      "Computer Vision",
+      "Optical Character Recognition (OCR)"
+    ]
+  },
+  {
+    "Component": "Google BeyondCorp",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Identity and Access Management (IAM)",
+      "Zero Trust",
+      "Security"
+    ]
+  },
+  {
+    "Component": "Google Cloud Deployment Manager",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Infrastructure as Code (IaC)",
+      "Automation",
+      "Deployment"
+    ]
+  },
+  {
+    "Component": "Google Cloud Endpoints",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "API Management",
+      "Load Balancing",
+      "Identity-Aware Proxy (IAP)"
+    ]
+  },
+  {
+    "Component": "Google Cloud Debugger",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Debugging",
+      "Error reporting",
+      "Cloud Logging"
+    ]
+  },
+  {
+    "Component": "Google Cloud Trace",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Performance Monitoring",
+      "Latency Tracking",
+      "Distributed Tracing"
+    ]
+  },
+  {
+    "Component": "Google Cloud Tools for Visual Studio",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "IDE",
+      "Visual Studio extension",
+      ".NET",
+      "App Development"
+    ]
+  },
+  {
+    "Component": "Google Analytics",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Web Analytics",
+      "Data Analysis",
+      "Marketing",
+      "User Behaviour"
+    ]
+  },
+  {
+    "Component": "Google Apigee API Platform",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "API Management",
+      "Security",
+      "Analytics",
+      "Developer Portal"
+    ]
+  },
+  {
+    "Component": "Google Apigee Sense",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Security",
+      "Threat Detection",
+      "API Management"
+    ]
+  },
+  {
+    "Component": "Google Cloud Composer Environment",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Workflow Management",
+      "Apache Airflow",
+      "Managed Service"
+    ]
+  },
+  {
+    "Component": "Google Cloud AutoML Dataset",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Artificial Intelligence (AI)",
+      "Machine Learning (ML)",
+      "Data Management"
+    ]
+  },
+  {
+    "Component": "Google Cloud TPU",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Artificial Intelligence (AI)",
+      "Machine Learning (ML)",
+      "Tensor Processing Units"
+    ]
+  },
+  {
+    "Component": "Google Cloud Text-to-Speech API",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Speech Synthesis",
+      "Natural Language Processing (NLP)",
+      "Machine Learning (ML)"
+    ]
+  },
+  {
+    "Component": "Google Dialogflow",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Natural Language Processing (NLP)",
+      "Conversational AI",
+      "Chatbot Development"
+    ]
+  },
+  {
+    "Component": "Google Cloud Security Command Center",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Security",
+      "Compliance",
+      "Threat Detection"
+    ]
+  },
+  {
+    "Component": "Google Cloud IoT Core",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Internet of Things (IoT)",
+      "Device Management",
+      "Data Management"
+    ]
+  },
+  {
+    "Component": "Google Partner Interconnect",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Networking",
+      "Hybrid Cloud",
+      "Traffic Redundancy"
+    ]
+  },
+  {
+    "Component": "Google Cloud Armor",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Distributed Denial of Service (DDoS) protection",
+      "Web Application Firewall (WAF)",
+      "Security"
+    ]
+  },
+  {
+    "Component": "Google Cloud Filestore Instance",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Managed Storage",
+      "Network Attached Storage (NAS)",
+      "File Sharing"
+    ]
+  },
+  {
+    "Component": "Google Cloud Memorystore",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "In-memory data store",
+      "Caching",
+      "Redis"
+    ]
+  },
+  {
+    "Component": "Azure Event Hub Namespace",
+    "Cloud Provider": "Microsoft Azure",
+    "Labels": [
+      "Event Streaming",
+      "Big Data",
+      "Data Processing"
+    ]
+  },
+  {
+    "Component": "Microprocessor",
+    "Cloud Provider": "N/A",
+    "Labels": [
+      "Hardware",
+      "CPU",
+      "Embedded Systems"
+    ]
+  },
+  {
+    "Component": "Software Program",
+    "Cloud Provider": "N/A",
+    "Labels": [
+      "Application",
+      "Code",
+      "Software Development"
+    ]
+  },
+  {
+    "Component": "Wireless Cellular Chipset",
+    "Cloud Provider": "N/A",
+    "Labels": [
+      "Hardware",
+      "Wireless Communication",
+      "Cellular Network"
+    ]
+  },
+  {
+    "Component": "ECU",
+    "Cloud Provider": "N/A",
+    "Labels": [
+      "Automotive",
+      "Electronic Control Unit",
+      "Real-time Computing"
+    ]
+  },
+  {
+    "Component": "Vehicle",
+    "Cloud Provider": "N/A",
+    "Labels": [
+      "Automotive",
+      "Transportation",
+      "Mobility"
+    ]
+  },
+  {
+    "Component": "System Bus",
+    "Cloud Provider": "N/A",
+    "Labels": [
+      "Computer Hardware",
+      "Data Transmission",
+      "Interconnect"
+    ]
+  },
+  {
+    "Component": "Trust Boundry",
+    "Cloud Provider": "N/A",
+    "Labels": [
+      "Security",
+      "Access Control",
+      "Security Perimeter"
+    ]
+  },
+  {
+    "Component": "Cloud Server",
+    "Cloud Provider": "Multiple",
+    "Labels": [
+      "Infrastructure as a Service (IaaS)",
+      "Virtual Machine (VM)",
+      "Elastic Compute"
+    ]
+  },
+  {
+    "Component": "Cloud Storage",
+    "Cloud Provider": "Multiple",
+    "Labels": [
+      "Object Storage",
+      "File Storage",
+      "Data Management"
+    ]
+  },
+  {
+    "Component": "Web Service",
+    "Cloud Provider": "N/A",
+    "Labels": [
+      "API",
+      "Remote Access",
+      "Service-Oriented Architecture (SOA)"
+    ]
+  },
+  {
+    "Component": "Cloud",
+    "Cloud Provider": "Multiple",
+    "Labels": [
+      "Distributed Computing",
+      "Virtualization",
+      "Scalability"
+    ]
+  },
+  {
+    "Component": "Google Cloud VPC Subnet",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Networking",
+      "Subnetwork",
+      "IP Addressing"
+    ]
+  },
+  {
+    "Component": "Google Account",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Identity and Access Management (IAM)",
+      "Authentication",
+      "Authorization"
+    ]
+  },
+  {
+    "Component": "Google User",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Identity and Access Management (IAM)",
+      "Account Access",
+      "User Role"
+    ]
+  },
+  {
+    "Component": "Google Kubernetes Engine",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Container Orchestration",
+      "Docker",
+      "Microservices"
+    ]
+  },
+  {
+    "Component": "Google Cloud Run Service",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Serverless Computing",
+      "Containerization",
+      "Application Development"
+    ]
+  },
+  {
+    "Component": "Google Cloud Organization",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Identity and Access Management (IAM)",
+      "Resource Hierarchy",
+      "Cloud Billing"
+    ]
+  },
+  {
+    "Component": "Google Cloud NAT",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Networking",
+      "Network Address Translation (NAT)",
+      "IP Masquerading"
+    ]
+  },
+  {
+    "Component": "Google Cloud Audit Logs",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Security",
+      "Compliance",
+      "Activity Monitoring"
+    ]
+  },
+  {
+    "Component": "Google Cloud Storage Coldline",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Cloud Storage",
+      "Data Archival",
+      "Long-term Storage"
+    ]
+  },
+  {
+    "Component": "Google Cloud VPC",
+    "Cloud Provider": "Google Cloud",
+    "Labels": [
+      "Networking",
+      "Virtual Private Cloud",
+      "Subnet"
+    ]
+  },
+  {
+    "Component": "AWS Security Group",
+    "Cloud Provider": "Amazon Web Services (AWS)",
+    "Labels": [
+      "Security",
+      "Firewall",
+      "Access Control"
+    ]
+  },
+  {
+    "Component": "AWS Account",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Account Management",
+      "AWS Identity and Access Management (IAM)"
+    ]
+  },
+  {
+    "Component": "AWS Global Resources",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Resource Management",
+      "AWS Organizations",
+      "AWS Resource Groups"
+    ]
+  },
+  {
+    "Component": "Thread",
+    "Labels": [
+      "Operating System Kernel",
+      "Multithreading",
+      "Concurrency"
+    ]
+  },
+  {
+    "Component": "Web API",
+    "Labels": [
+      "Application Programming Interface",
+      "RESTful API",
+      "Web Services",
+      "HTTP API"
+    ]
+  },
+  {
+    "Component": "External Web Application",
+    "Labels": [
+      "Web Application",
+      "Third-party Integration",
+      "Web Security",
+      "Cross-site Scripting (XSS)"
+    ]
+  },
+  {
+    "Component": "Solr Search",
+    "Labels": [
+      "Enterprise Search Platform",
+      "Apache Lucene",
+      "Full-Text Search",
+      "Information Retrieval"
+    ]
+  },
+  {
+    "Component": "Managed Application",
+    "Labels": [
+      "Software as a Service (SaaS)",
+      "Managed Services",
+      "Vendor-managed application",
+      "Cloud-based"
+    ]
+  },
+  {
+    "Component": "Identity Server",
+    "Labels": [
+      "Single Sign-On (SSO)",
+      "Authentication Server",
+      "OAuth 2.0",
+      "OpenID Connect"
+    ]
+  },
+  {
+    "Component": "Microsoft Dynamics CRM Portal",
+    "Labels": [
+      "Customer Relationship Management (CRM)",
+      "Microsoft Power Platform",
+      "Web Portal",
+      "Business Applications"
+    ]
+  },
+  {
+    "Component": "Microsoft Dynamics CRM",
+    "Labels": [
+      "Customer Relationship Management (CRM)",
+      "Sales Management",
+      "Marketing Automation",
+      "Business Applications"
+    ]
+  },
+  {
+    "Component": "Microsoft Dynamics CRM Mobile Client",
+    "Labels": [
+      "Mobile Application",
+      "Customer Relationship Management (CRM)",
+      "Sales Management",
+      "Marketing Automation"
+    ]
+  },
+  {
+    "Component": "Microsoft Dynamics CRM Outlook Client",
+    "Labels": [
+      "Desktop Application",
+      "Customer Relationship Management (CRM)",
+      "Sales Management",
+      "Marketing Automation"
+    ]
+  },
+  {
+    "Component": "HockeyApp",
+    "Labels": [
+      "Mobile App Distribution",
+      "Mobile Application Management",
+      "Beta Testing",
+      "Crash Reporting"
+    ]
+  },
+  {
+    "Component": "Operations Management Suite (OMS)",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Cloud-Based Management Tool",
+      "Log Analytics",
+      "IT Operations Management",
+      "Azure Monitor"
+    ]
+  },
+  {
+    "Component": "Windows Store Process",
+    "Labels": [
+      "Microsoft Store",
+      "Windows App Store",
+      "Microsoft Edge Content Process",
+      "Application Sandbox"
+    ]
+  },
+  {
+    "Component": "Host",
+    "Labels": [
+      "Web Hosting",
+      "Cloud Hosting",
+      "Virtual Machine (VM) Hosting",
+      "Server Hosting"
+    ]
+  },
+  {
+    "Component": "Win32 Service",
+    "Labels": [
+      "Windows Services",
+      "Background Services",
+      "Operating System Service",
+      "Service Control Manager"
+    ]
+  },
+  {
+    "Component": "Authorization Provider",
+    "Labels": [
+      "Identity and Access Management",
+      "OAuth Provider",
+      "Authentication Server",
+      "Authorization Server"
+    ]
+  },
+  {
+    "Component": "Windows Runtime",
+    "Labels": [
+      "Universal Windows Platform (UWP)",
+      "Application Runtime",
+      "API Set",
+      "Native Code"
+    ]
+  },
+  {
+    "Component": "Windows .NET Runtime",
+    "Labels": [
+      ".NET Framework",
+      ".NET Core",
+      "Common Language Runtime (CLR)",
+      "Managed Code"
+    ]
+  },
+  {
+    "Component": "Non-Relational Database",
+    "Labels": [
+      "NoSQL",
+      "Document Database",
+      "Key-Value Store",
+      "Column-Family Database"
+    ]
+  },
+  {
+    "Component": "Local Storage",
+    "Labels": [
+      "Browser Storage",
+      "Web Storage API",
+      "Client-Side Storage",
+      "Persistent Storage"
+    ]
+  },
+  {
+    "Component": "Windows Communication Foundation (WCF)",
+    "Labels": [
+      "Service-oriented Architecture (SOA)",
+      "SOAP Web Services",
+      "Distributed Applications",
+      "Middleware"
+    ]
+  },
+  {
+    "Component": "Integration Runtime",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Azure Data Factory",
+      "Data Integration",
+      "Data Transfer",
+      "Hybrid Data Integration"
+    ]
+  },
+  {
+    "Component": "Azure IoT Protocol Gateway",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Internet of Things (IoT)",
+      "Protocol Translation",
+      "Device Management",
+      "Data Ingestion"
+    ]
+  },
+  {
+    "Component": "Azure Notebooks",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Jupyter Notebooks",
+      "Data Science",
+      "Machine Learning",
+      "Collaborative Notebooks"
+    ]
+  },
+  {
+    "Component": "IoT Device",
+    "Labels": [
+      "Internet of Things (IoT)",
+      "Sensors",
+      "Actuators",
+      "Embedded Systems"
+    ]
+  },
+  {
+    "Component": "Azure IoT Gateway",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Internet of Things (IoT)",
+      "Device Connectivity",
+      "Edge Computing",
+      "Data Processing"
+    ]
+  },
+  {
+    "Component": "Azure Management Group",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Azure Resource Management",
+      "Resource Hierarchy",
+      "Access Control",
+      "Policy Management"
+    ]
+  },
+  {
+    "Component": "Azure Region",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Data Center Location",
+      "High Availability",
+      "Disaster Recovery",
+      "Geo-redundancy"
+    ]
+  },
+  {
+    "Component": "Azure Subscription",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Azure Resource Management",
+      "Billing and Cost Management",
+      "Access Management",
+      "Resource Isolation"
+    ]
+  },
+  {
+    "Component": "Azure Active Directory Federation Services (ADFS)",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Single Sign-On (SSO)",
+      "Identity and Access Management",
+      "Windows Server Active Directory Integration",
+      "OAuth 2.0"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Transit Gateway",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Virtual Private Cloud (VPC)",
+      "Transit VPC",
+      "Networking",
+      "Route Propagation"
+    ]
+  },
+  {
+    "Component": "AWS Elastic Network Interface",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Network Interface",
+      "Elastic IP",
+      "Virtual Private Cloud (VPC)",
+      "High Availability"
+    ]
+  },
+  {
+    "Component": "Salesforce",
+    "Labels": [
+      "Customer Relationship Management (CRM)",
+      "Sales Management",
+      "Marketing Automation",
+      "Business Applications"
+    ]
+  },
+  {
+    "Component": "Hive",
+    "Labels": [
+      "Data Warehouse",
+      "Hadoop Ecosystem",
+      "SQL-like Query Language",
+      "Big Data Processing"
+    ]
+  },
+  {
+    "Component": "Thick Client",
+    "Labels": [
+      "Desktop Application",
+      "Rich Client",
+      "Client-Server Architecture",
+      "Local Processing"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Image Builder",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Image Management",
+      "Automation",
+      "Golden Image Creation",
+      "Amazon Machine Image (AMI)"
+    ]
+  },
+  {
+    "Component": "AWS App Mesh",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Service Mesh",
+      "Microservices",
+      "Traffic Management",
+      "Application-level Metrics"
+    ]
+  },
+  {
+    "Component": "AWS IQ",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Expert Marketplace",
+      "AWS Partner Network (APN)",
+      "AWS Consulting Partners",
+      "Service Delivery"
+    ]
+  },
+  {
+    "Component": "Amazon Braket",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Quantum Computing",
+      "Quantum Algorithms",
+      "Quantum Simulators",
+      "Quantum Annealing"
+    ]
+  },
+  {
+    "Component": "AWS AppConfig",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Application Configuration",
+      "Feature Flag Management",
+      "AB Testing",
+      "Rollouts"
+    ]
+  },
+  {
+    "Component": "Amazon Personal Health Dashboard",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Health Status",
+      "AWS Services",
+      "Incident Management",
+      "Notifications"
+    ]
+  },
+  {
+    "Component": "AWS Chatbot",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "ChatOps",
+      "AWS Services",
+      "Slack Integration",
+      "Notification Management"
+    ]
+  },
+  {
+    "Component": "AWS Launch Wizard",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Application Migration",
+      "Infrastructure Provisioning",
+      "AWS Services",
+      "Application Deployment"
+    ]
+  },
+  {
+    "Component": "AWS Compute Optimizer",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Compute Resource Optimization",
+      "EC2 Instance Types",
+      "Machine Learning",
+      "Cost Optimization"
+    ]
+  },
+  {
+    "Component": "AWS MediaPackage",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Live Video Content",
+      "Video Packaging",
+      "Content Delivery Network (CDN)",
+      "Video Streaming"
+    ]
+  },
+  {
+    "Component": "Amazon CodeGuru",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Code Review",
+      "Code Quality",
+      "Automated Code Optimization",
+      "Machine Learning"
+    ]
+  },
+  {
+    "Component": "Amazon Fraud Detector",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Fraud Detection",
+      "Machine Learning",
+      "Real-time Event Processing",
+      "Risk Management"
+    ]
+  },
+  {
+    "Component": "Amazon Kendra",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Enterprise Search",
+      "Natural Language Processing (NLP)",
+      "Machine Learning",
+      "Document Search"
+    ]
+  },
+  {
+    "Component": "AWS DeepRacer",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Autonomous Racing",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Simulated Environments"
+    ]
+  },
+  {
+    "Component": "Amazon Augmented AI",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Human-in-the-Loop Learning",
+      "Machine Learning",
+      "Natural Language Processing (NLP)",
+      "Data Labelling"
+    ]
+  },
+  {
+    "Component": "AWS DeepComposer",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Machine Learning",
+      "Generative AI",
+      "Music Creation",
+      "Neural Networks"
+    ]
+  },
+  {
+    "Component": "Amazon OpenSearch Service Domain",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Search and Analytics",
+      "Open Source",
+      "Elasticsearch Compatible",
+      "Log Analytics"
+    ]
+  },
+  {
+    "Component": "AWS Data Exchange",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Third-party Data",
+      "Data Publishing",
+      "Data Subscriptions",
+      "AWS Marketplace"
+    ]
+  },
+  {
+    "Component": "AWS Lake Formation",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Data Lakes",
+      "Data Governance",
+      "Data Cataloging",
+      "Data Security"
+    ]
+  },
+  {
+    "Component": "Amazon Managed Streaming for Apache Kafka",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Real-Time Streaming",
+      "Apache Kafka",
+      "Message Broker",
+      "Data Integration"
+    ]
+  },
+  {
+    "Component": "Amazon Macie",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Data Discovery",
+      "Data Classification",
+      "Data Security",
+      "GDPR Compliance"
+    ]
+  },
+  {
+    "Component": "AWS Firewall Manager",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Firewall Management",
+      "Security Groups",
+      "Network ACL",
+      "Web Application Firewall (WAF)"
+    ]
+  },
+  {
+    "Component": "Amazon Detective",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Security Investigations",
+      "Behavioral Analytics",
+      "Data Visualization",
+      "EC2 Instance Analysis"
+    ]
+  },
+  {
+    "Component": "Amazon EventBridge",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Event-Driven Architecture",
+      "CloudWatch Events",
+      "Integration",
+      "Serverless"
+    ]
+  },
+  {
+    "Component": "AWS VPN",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Virtual Private Network (VPN)",
+      "Site-to-Site VPN",
+      "Client VPN",
+      "Secure Communication"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Host",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EC2",
+      "Virtualization",
+      "Host Environment",
+      "Hardware Level Isolation"
+    ]
+  },
+  {
+    "Component": "Amazon Redshift Cluster Subnet Group",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Redshift",
+      "Virtual Private Cloud (VPC)",
+      "Data Warehousing",
+      "Subnet Configuration"
+    ]
+  },
+  {
+    "Component": "Amazon RDS DB Subnet Group",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon RDS",
+      "Virtual Private Cloud (VPC)",
+      "Database Instance",
+      "Subnet Configuration"
+    ]
+  },
+  {
+    "Component": "AWS Elastic Beanstalk Environment",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Application Deployment",
+      "Platform-as-a-Service (PaaS)",
+      "Auto-scaling",
+      "DevOps"
+    ]
+  },
+  {
+    "Component": "AWS IAM Group",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Identity and Access Management",
+      "Access Control",
+      "Security Policies",
+      "User Management"
+    ]
+  },
+  {
+    "Component": "AWS WAF Rule Group",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Web Application Firewall (WAF)",
+      "Security Rules",
+      "Attack Mitigation",
+      "Managed Rule Groups"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 VPN Gateway",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Virtual Private Network (VPN)",
+      "IPsec",
+      "Secure Communication",
+      "Hybrid Cloud Connectivity"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Customer Gateway",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Virtual Private Network (VPN)",
+      "IPsec",
+      "Secure Communication",
+      "On-premises Connectivity"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Transit Gateway Route Table",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Virtual Private Cloud (VPC)",
+      "Transit VPC",
+      "Network Routing",
+      "Route Tables"
+    ]
+  },
+  {
+    "Component": "AWS App Mesh Virtual Node",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Service Mesh",
+      "Microservices",
+      "Network Load Balancer",
+      "Traffic Routing"
+    ]
+  },
+  {
+    "Component": "AWS App Mesh Virtual Router",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Service Mesh",
+      "Microservices",
+      "Traffic Management",
+      "Application Load Balancer"
+    ]
+  },
+  {
+    "Component": "AWS App Mesh Route",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Service Mesh",
+      "Traffic routing",
+      "Microservices",
+      "HTTP",
+      "TCP"
+    ]
+  },
+  {
+    "Component": "Amazon Redshift Cluster Security Group",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Security Group",
+      "Amazon Redshift",
+      "Firewall",
+      "VPC"
+    ]
+  },
+  {
+    "Component": "AWS IAM Policy",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Identity and Access Management",
+      "Access Control",
+      "Authorization",
+      "JSON"
+    ]
+  },
+  {
+    "Component": "AWS App Mesh Virtual Service",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Service Mesh",
+      "Microservices",
+      "Application Load Balancer",
+      "DNS",
+      "TCP",
+      "HTTP"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Auto Scaling Launch Configuration",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Auto Scaling",
+      "Launch Configuration",
+      "Amazon EC2",
+      "Scaling Group",
+      "AMI",
+      "Instance Type"
+    ]
+  },
+  {
+    "Component": "Amazon RDS DB Security Group",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Security Group",
+      "Amazon RDS",
+      "Firewall",
+      "VPC"
+    ]
+  },
+  {
+    "Component": "Azure Route Table",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Virtual Network",
+      "Traffic Routing",
+      "Subnet prioritization",
+      "Outbound Traffic",
+      "Inbound Traffic"
+    ]
+  },
+  {
+    "Component": "Web Application Firewall",
+    "Labels": [
+      "Security",
+      "Firewall",
+      "Web Application",
+      "HTTP",
+      "Traffic filtering"
+    ]
+  },
+  {
+    "Component": "SIEM",
+    "Labels": [
+      "Security Information and Event Management",
+      "Security",
+      "Log management",
+      "Threat detection",
+      "Network monitoring"
+    ]
+  },
+  {
+    "Component": "IDS",
+    "Labels": [
+      "Intrusion Detection System",
+      "Security",
+      "Network monitoring",
+      "Threat detection",
+      "Traffic analysis",
+      "Anomaly detection"
+    ]
+  },
+  {
+    "Component": "IPS",
+    "Labels": [
+      "Intrusion Prevention System",
+      "Security",
+      "Threat prevention",
+      "Firewall",
+      "Traffic filtering"
+    ]
+  },
+  {
+    "Component": "Anti-virus for end user",
+    "Labels": [
+      "Security",
+      "Anti-virus",
+      "End user protection",
+      "Malware detection",
+      "System scanning"
+    ]
+  },
+  {
+    "Component": "Anti-Virus for Server",
+    "Labels": [
+      "Security",
+      "Anti-virus",
+      "Server Protection",
+      "Malware detection",
+      "System scanning",
+      "File integrity monitoring"
+    ]
+  },
+  {
+    "Component": "Secure Code Frameworks",
+    "Labels": [
+      "Security",
+      "Application Security",
+      "Secure coding",
+      "Code reviews",
+      "Threat modeling"
+    ]
+  },
+  {
+    "Component": "SAST Tool",
+    "Labels": [
+      "Static Application Security Testing",
+      "Security",
+      "Code analysis",
+      "Code quality",
+      "Vulnerability detection"
+    ]
+  },
+  {
+    "Component": "DAST Tool",
+    "Labels": [
+      "Dynamic Application Security Testing",
+      "Security",
+      "Security testing automation",
+      "Web application testing",
+      "Vulnerability detection"
+    ]
+  },
+  {
+    "Component": "Identity Provider",
+    "Labels": [
+      "Identity and Access Management",
+      "Authentication",
+      "Authorization",
+      "Single sign-on",
+      "SAML",
+      "OAuth"
+    ]
+  },
+  {
+    "Component": "LDAP",
+    "Labels": [
+      "Lightweight Directory Access Protocol",
+      "Directory Services",
+      "Identity and Access Management",
+      "Authentication",
+      "Authorization"
+    ]
+  },
+  {
+    "Component": "IAM Service",
+    "Labels": [
+      "Identity and Access Management",
+      "Cloud Security",
+      "Authorization",
+      "Authentication",
+      "User Management",
+      "AWS",
+      "Azure",
+      "Google Cloud Platform"
+    ]
+  },
+  {
+    "Component": "IAST Tool",
+    "Labels": [
+      "Interactive Application Security Testing",
+      "Security",
+      "Runtime application security testing",
+      "Code analysis",
+      "Vulnerability detection"
+    ]
+  },
+  {
+    "Component": "Security Firewall",
+    "Cloud Provider": null,
+    "Labels": [
+      "5G",
+      "Cybersecurity",
+      "Network Security",
+      "Firewall",
+      "Threat Prevention"
+    ]
+  },
+  {
+    "Component": "SD-WAN",
+    "Cloud Provider": null,
+    "Labels": [
+      "Software-Defined Networking",
+      "WAN",
+      "Cloud Networking",
+      "Network Virtualization",
+      "Traffic Management"
+    ]
+  },
+  {
+    "Component": "Endpoint Detection and Response",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Threat Detection",
+      "Incident Response",
+      "Malware Protection",
+      "Data Loss Prevention"
+    ]
+  },
+  {
+    "Component": "Bot Management",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Bot Protection",
+      "Web Application Firewall",
+      "API Security",
+      "Threat Mitigation"
+    ]
+  },
+  {
+    "Component": "File Integrity Monitoring Software",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Compliance",
+      "Threat Detection",
+      "File Integrity Verification",
+      "Audit",
+      "Vulnerability Assessment"
+    ]
+  },
+  {
+    "Component": "Smart Cards",
+    "Cloud Provider": null,
+    "Labels": [
+      "Authentication",
+      "Identity Management",
+      "Encryption",
+      "Information Security",
+      "Physical Security"
+    ]
+  },
+  {
+    "Component": "Enterprise Mobility Management",
+    "Cloud Provider": null,
+    "Labels": [
+      "Mobile Device Management",
+      "Mobile Application Management",
+      "Bring Your Own Device",
+      "Unified Endpoint Management",
+      "Mobile Security"
+    ]
+  },
+  {
+    "Component": "Two-factor Authentication",
+    "Cloud Provider": null,
+    "Labels": [
+      "Authentication",
+      "Cybersecurity",
+      "Multi-factor Authentication",
+      "Identity Access Management",
+      "Information Security"
+    ]
+  },
+  {
+    "Component": "Mantrap",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Network Isolation",
+      "Network Segmentation",
+      "Endpoint Protection",
+      "Threat Containment"
+    ]
+  },
+  {
+    "Component": "Honeypot",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Threat Deception",
+      "Intrusion Detection",
+      "Defense Against Malware",
+      "Network Security"
+    ]
+  },
+  {
+    "Component": "Honeynet",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Threat Intelligence",
+      "Intrusion Detection",
+      "Defense Against Malware",
+      "Network Security"
+    ]
+  },
+  {
+    "Component": "Onion Routing",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Anonymity",
+      "Privacy",
+      "Encrypted Communication",
+      "Darknet"
+    ]
+  },
+  {
+    "Component": "Code Signing",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Digital Signature",
+      "Trusted Execution",
+      "Application Security",
+      "Software Development"
+    ]
+  },
+  {
+    "Component": "Trusted Execution Environment",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Hardware Security",
+      "Secure Boot",
+      "Digital Rights Management",
+      "Mobile Security"
+    ]
+  },
+  {
+    "Component": "Traffic Padding",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Data Protection",
+      "Data Privacy",
+      "Network Security",
+      "Anonymity"
+    ]
+  },
+  {
+    "Component": "Security Audit",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Compliance",
+      "Vulnerability Assessment",
+      "Penetration Testing",
+      "Risk Management"
+    ]
+  },
+  {
+    "Component": "Patch Management",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Vulnerability Management",
+      "Risk Management",
+      "Security Updates",
+      "Software Maintenance"
+    ]
+  },
+  {
+    "Component": "Data Wipe",
+    "Cloud Provider": null,
+    "Labels": [
+      "Data Privacy",
+      "Data Sanitization",
+      "Cybersecurity",
+      "Data Erasure",
+      "IT Asset Disposal"
+    ]
+  },
+  {
+    "Component": "Air-gap",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Network Isolation",
+      "Data Isolation",
+      "Physical Security",
+      "Cold Storage"
+    ]
+  },
+  {
+    "Component": "Network Segmentation",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Network Isolation",
+      "Traffic Segregation",
+      "Zero trust",
+      "Threat detection and response"
+    ]
+  },
+  {
+    "Component": "Application Whitelisting",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Application Security",
+      "Access Control",
+      "Malware Detection",
+      "Endpoint Protection"
+    ]
+  },
+  {
+    "Component": "Constrained User Interface",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Human Interface Device",
+      "One-time Password",
+      "Multi-Factor Authentication",
+      "Identity Access Management"
+    ]
+  },
+  {
+    "Component": "Log Manager",
+    "Cloud Provider": null,
+    "Labels": [
+      "Logging",
+      "Cybersecurity",
+      "Audit Trail",
+      "Compliance",
+      "Centralized Logging"
+    ]
+  },
+  {
+    "Component": "CAPTCHA",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Human Verification",
+      "Bot Detection",
+      "Spam Prevention",
+      "Usability"
+    ]
+  },
+  {
+    "Component": "Security Configuration Management Tool",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Configuration Management",
+      "Vulnerability Management",
+      "Risk Assessment",
+      "Compliance"
+    ]
+  },
+  {
+    "Component": "Vulnerability Scanning",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Vulnerability Assessment",
+      "Risk Assessment",
+      "Threat Detection",
+      "Network Security"
+    ]
+  },
+  {
+    "Component": "Secure Backup Solution",
+    "Cloud Provider": null,
+    "Labels": [
+      "Data Protection",
+      "Disaster Recovery",
+      "Encryption",
+      "Data Backup",
+      "Cybersecurity"
+    ]
+  },
+  {
+    "Component": "Remote Access Control",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Identity Management",
+      "Access Control",
+      "Endpoint Security",
+      "Privileged Access Management"
+    ]
+  },
+  {
+    "Component": "Data Classification Tool",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Data Classification",
+      "Data Protection",
+      "Compliance",
+      "Data Privacy"
+    ]
+  },
+  {
+    "Component": "Anti-spyware",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Threat Detection",
+      "Malware Protection",
+      "Endpoint Security",
+      "Real-time Scanning"
+    ]
+  },
+  {
+    "Component": "Anti-adware",
+    "Cloud Provider": null,
+    "Labels": [
+      "Cybersecurity",
+      "Malware Protection",
+      "Endpoint Security",
+      "Real-time Scanning",
+      "Web Protection"
+    ]
+  },
+  {
+    "Component": "Zone",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Zone",
+      "Google Cloud Platform",
+      "Data Centers",
+      "High Availability",
+      "Disaster Recovery"
+    ]
+  },
+  {
+    "Component": "Artifact Registry",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Artifact Registry",
+      "Google Cloud Platform",
+      "Package Management",
+      "Container Registry",
+      "Security"
+    ]
+  },
+  {
+    "Component": "Cloud Firestore",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Cloud Firestore",
+      "Google Cloud Platform",
+      "NoSQL",
+      "Datastore",
+      "Serverless"
+    ]
+  },
+  {
+    "Component": "VPC Flow Logs",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "VPC Flow Logs",
+      "Google Cloud Platform",
+      "Network Monitoring",
+      "Traffic Analysis",
+      "Cybersecurity"
+    ]
+  },
+  {
+    "Component": "Traffic Director",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Traffic Director",
+      "Google Cloud Platform",
+      "Service Mesh",
+      "Traffic Management",
+      "Load Balancing"
+    ]
+  },
+  {
+    "Component": "Service Directory",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Service Directory",
+      "Google Cloud Platform",
+      "Service Discovery",
+      "API Management",
+      "Microservices"
+    ]
+  },
+  {
+    "Component": "Recommendations AI",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Recommendations AI",
+      "Google Cloud Platform",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Personalization"
+    ]
+  },
+  {
+    "Component": "Cloud Profiler",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Cloud Profiler",
+      "Google Cloud Platform",
+      "Application Profiling",
+      "Performance Optimization",
+      "Debugging"
+    ]
+  },
+  {
+    "Component": "Certificate Authority Service",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Certificate Authority",
+      "Google Cloud Platform",
+      "Public Key Infrastructure",
+      "PKI",
+      "Cybersecurity"
+    ]
+  },
+  {
+    "Component": "Cloud Identity Platform",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Cloud Identity Platform",
+      "Google Cloud Platform",
+      "Identity and Access Management",
+      "Authentication",
+      "Authorization"
+    ]
+  },
+  {
+    "Component": "Cloud HSM",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Cloud HSM",
+      "Google Cloud Platform",
+      "Hardware Security",
+      "Key Management",
+      "Financial Services"
+    ]
+  },
+  {
+    "Component": "Cloud Build",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Cloud Build",
+      "Google Cloud Platform",
+      "Continuous Integration",
+      "Continuous Deployment",
+      "DevOps"
+    ]
+  },
+  {
+    "Component": "Resource Manager API",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Resource Manager API",
+      "Google Cloud Platform",
+      "Cloud Resource Management",
+      "Cloud IAM",
+      "Deployment Manager"
+    ]
+  },
+  {
+    "Component": "Secret Manager",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Secret Manager",
+      "Google Cloud Platform",
+      "Secret Storage",
+      "Secret Rotation",
+      "Secret Access Control"
+    ]
+  },
+  {
+    "Component": "Anthos Service Mesh",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Anthos Service Mesh",
+      "Google Cloud Platform",
+      "Service Mesh",
+      "Microservices",
+      "Traffic Management"
+    ]
+  },
+  {
+    "Component": "Cloud Looker",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Cloud Looker",
+      "Google Cloud Platform",
+      "Business Intelligence",
+      "Data Analytics",
+      "Visualization"
+    ]
+  },
+  {
+    "Component": "Cloud Data Fusion",
+    "Cloud Provider": "Google Cloud Platform",
+    "Labels": [
+      "Cloud Data Fusion",
+      "Google Cloud Platform",
+      "Data Integration",
+      "ETL",
+      "Data Pipeline"
+    ]
+  },
+  {
+    "Component": "Auto-scaling",
+    "Cloud Provider": null,
+    "Labels": [
+      "Auto-scaling",
+      "Elasticity",
+      "Cloud Computing",
+      "Scalability",
+      "Load Balancing"
+    ]
+  },
+  {
+    "Component": "CRUD",
+    "Cloud Provider": null,
+    "Labels": [
+      "CRUD",
+      "Software Development",
+      "Data Management",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "Component": "Internet",
+    "Cloud Provider": null,
+    "Labels": [
+      "Internet",
+      "Network",
+      "Cloud Computing",
+      "World Wide Web",
+      "Connectivity"
+    ]
+  },
+  {
+    "Component": "Load Balancer",
+    "Cloud Provider": "",
+    "Labels": [
+      "Traffic",
+      "Distribution",
+      "Scalability"
+    ]
+  },
+  {
+    "Component": "Firewall",
+    "Cloud Provider": "",
+    "Labels": [
+      "Security",
+      "Access Control",
+      "Intrusion Detection"
+    ]
+  },
+  {
+    "Component": "Third Party Web Service",
+    "Cloud Provider": "",
+    "Labels": [
+      "API",
+      "Integration",
+      "External Dependency"
+    ]
+  },
+  {
+    "Component": "AWS KMS Key",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Security",
+      "Encryption",
+      "Key Management"
+    ]
+  },
+  {
+    "Component": "API Gateway Stage",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "API",
+      "Gateway",
+      "Serverless",
+      "REST",
+      "HTTP",
+      "API versioning",
+      "Deployment",
+      "Integration",
+      "Management",
+      "Monitoring"
+    ]
+  },
+  {
+    "Component": "API Gateway RestApi",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "API",
+      "Gateway",
+      "REST",
+      "HTTP",
+      "Serverless",
+      "Integration",
+      "Backend",
+      "Endpoints",
+      "Authorization",
+      "Security"
+    ]
+  },
+  {
+    "Component": "AWS Config Configuration Recorder",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Config",
+      "Recorder",
+      "Configuration History",
+      "Compliance",
+      "Audit",
+      "Resource Inventory",
+      "Configuration Changes",
+      "Security Automation",
+      "Policy Creation",
+      "Compliance Checks"
+    ]
+  },
+  {
+    "Component": "Amazon SageMaker Model",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon SageMaker",
+      "Machine Learning",
+      "Model",
+      "Training",
+      "Algorithm",
+      "Feature Engineering",
+      "Hyperparameters",
+      "Inference",
+      "Batch Transform",
+      "Real-time Endpoint"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Carrier Gateway",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon EC2",
+      "Carrier Gateway",
+      "Network Management",
+      "IPsec VPN",
+      "BGP",
+      "Transit Gateway",
+      "On-premises",
+      "Connectivity",
+      "Routing",
+      "Security"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Client VPN Endpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon EC2",
+      "Client VPN",
+      "Endpoint",
+      "Remote Access",
+      "VPN Connection",
+      "Authentication",
+      "Transport Protocol",
+      "Security",
+      "User-Friendly",
+      "Fully Managed"
+    ]
+  },
+  {
+    "Component": "Amazon API Gateway API Key",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon API Gateway",
+      "API Key",
+      "Security",
+      "Authentication",
+      "Authorization",
+      "REST",
+      "HTTP",
+      "Usage Plans",
+      "Throttling",
+      "Metering"
+    ]
+  },
+  {
+    "Component": "Amazon API GatewayV2 Deployment",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon API Gateway V2",
+      "Deployment",
+      "RESTful APIs",
+      "Websocket APIs",
+      "Traffic Management",
+      "Rollback",
+      "Caching",
+      "Integration",
+      "Monitoring",
+      "Security"
+    ]
+  },
+  {
+    "Component": "Amazon API GatewayV2 Domain Name",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon API Gateway V2",
+      "Domain Name",
+      "Custom Domain",
+      "Endpoint",
+      "RESTful APIs",
+      "Websocket APIs",
+      "Secure Sockets Layer (SSL)",
+      "HTTPS",
+      "Management",
+      "Monitoring",
+      "Security"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Egress Only Internet Gateway",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon EC2",
+      "Egress Only Internet Gateway",
+      "IPv6",
+      "Outbound-only",
+      "Internet Gateway",
+      "VPC",
+      "Routing",
+      "Security",
+      "High Availability"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Fleet",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon EC2",
+      "Fleet",
+      "Capacity Management",
+      "On-demand Capacity",
+      "Spot Instances",
+      "Reserved Instances",
+      "Launch Templates",
+      "Load Balancing",
+      "Auto Scaling",
+      "Monitoring"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 NAT Gateway",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon EC2",
+      "NAT Gateway",
+      "Network Address Translation",
+      "Elastic IP",
+      "Outbound-only",
+      "Internet Gateway",
+      "VPC",
+      "Routing",
+      "Security",
+      "High Availability"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Spot Fleet",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon EC2",
+      "Spot Fleet",
+      "Capacity Management",
+      "Spot Instances",
+      "On-demand Capacity",
+      "Reserved Capacity",
+      "Launch Templates",
+      "Load Balancing",
+      "Auto Scaling",
+      "Cost Optimization"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Subnet CIDR Block",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon EC2",
+      "Subnet",
+      "CIDR Block",
+      "Virtual Private Cloud (VPC)",
+      "IP Addresses",
+      "Network Partition",
+      "Routing",
+      "Security",
+      "Accessibility"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Traffic Mirror Session",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon EC2",
+      "Traffic Mirror Session",
+      "Network Traffic",
+      "Traffic Analysis",
+      "Packet Sniffing",
+      "Monitoring",
+      "Security",
+      "Compliance",
+      "Troubleshooting",
+      "Mirroring Filters"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Traffic Mirror Target",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon EC2",
+      "Traffic Mirror Target",
+      "Traffic Monitoring",
+      "Network Traffic",
+      "Packet Destination",
+      "Troubleshooting",
+      "Mirroring Filters",
+      "Security",
+      "Compliance",
+      "Monitoring"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Transit Gateway Attachment",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon EC2",
+      "Transit Gateway",
+      "Attachment",
+      "Inter-Region VPC Attachment",
+      "Peering",
+      "Routing",
+      "Security",
+      "VPN Connection",
+      "Direct Connect",
+      "IPv4",
+      "IPv6"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 VPC CIDR Block",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon EC2",
+      "VPC",
+      "CIDR Block",
+      "Subnets",
+      "IP Addresses",
+      "Routing",
+      "Security",
+      "Virtual Private Cloud",
+      "Accessibility"
+    ]
+  },
+  {
+    "Component": "Amazon EMR Cluster",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon EMR",
+      "EMR Cluster",
+      "Big Data",
+      "Hadoop",
+      "Spark",
+      "Presto",
+      "Hive",
+      "Zeppelin",
+      "Data Processing",
+      "Cluster Management",
+      "Auto Scaling"
+    ]
+  },
+  {
+    "Component": "Amazon RDS DB Instance",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon RDS",
+      "DB Instance",
+      "Relational Database",
+      "RDBMS",
+      "MySQL",
+      "SQL Server",
+      "PostgreSQL",
+      "Oracle",
+      "Aurora",
+      "DB Engine",
+      "Backup",
+      "High Availability"
+    ]
+  },
+  {
+    "Component": "Amazon RDS DB Proxy",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon RDS",
+      "DB Proxy",
+      "Database Proxy",
+      "Connection Pooling",
+      "Load Balancing",
+      "Health Checks",
+      "Failover Handling",
+      "Scaling",
+      "Security",
+      "Monitoring",
+      "Performance Optimization"
+    ]
+  },
+  {
+    "Component": "Amazon Route 53 Health Check",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon Route 53",
+      "Health Check",
+      "DNS",
+      "Monitoring",
+      "Availability",
+      "Latency",
+      "Failover",
+      "Endpoint Testing",
+      "Security",
+      "Highly Available"
+    ]
+  },
+  {
+    "Component": "Amazon S3 Access Point",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon S3",
+      "Access Point",
+      "Bucket",
+      "Access Management",
+      "Policy Management",
+      "Data Accessibility",
+      "Data Security",
+      "Private Data Exchange",
+      "Multi-account Access",
+      "Monitoring"
+    ]
+  },
+  {
+    "Component": "Amazon S3 Multi-Region Access Point",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon S3",
+      "Multi-Region Access Point",
+      "Global Data Access",
+      "Bucket",
+      "Data Management",
+      "Data Replication",
+      "Data Durability",
+      "Access Management",
+      "Policy Management",
+      "Data Accessibility",
+      "Monitoring"
+    ]
+  },
+  {
+    "Component": "Amazon S3 Storage Lens",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon S3",
+      "Storage Lens",
+      "Storage Analytics",
+      "Storage Usage",
+      "Storage Cost",
+      "Storage Reports",
+      "Data Access Patterns",
+      "Object Tagging",
+      "Data Transfer",
+      "Security",
+      "Multi-account Management"
+    ]
+  },
+  {
+    "Component": "AWS WAF IP Set",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS WAF",
+      "IP Set",
+      "IP Addresses",
+      "IP Range",
+      "Allowlist",
+      "Blocklist",
+      "Web Firewall",
+      "Security",
+      "Web Traffic Filter",
+      "Access Control",
+      "Monitoring"
+    ]
+  },
+  {
+    "Component": "Amazon CloudFront Cache Policy",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon CloudFront",
+      "Cache Policy",
+      "Caching",
+      "Cache Behavior",
+      "Object TTL",
+      "Cache Key",
+      "Query String",
+      "Lambda@Edge",
+      "Dynamic Content",
+      "Content Compression",
+      "Content Delivery"
+    ]
+  },
+  {
+    "Component": "Amazon CloudFront Function",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon CloudFront",
+      "Function",
+      "Lambda@Edge",
+      "Serverless",
+      "Compute",
+      "Content Transformation",
+      "Content Personalization",
+      "Security",
+      "Content Delivery",
+      "Edge Computing"
+    ]
+  },
+  {
+    "Component": "Amazon CloudFront Public Key",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon CloudFront",
+      "Public Key",
+      "Key Pairs",
+      "RSA",
+      "HTTPS",
+      "Security",
+      "Identity Management",
+      "Cryptography",
+      "Content Encryption",
+      "Data Integrity"
+    ]
+  },
+  {
+    "Component": "Amazon CloudFront Key Group",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon CloudFront",
+      "Key Group",
+      "Public/Private Key Pair",
+      "RSA",
+      "HTTPS",
+      "Security",
+      "Identity Management",
+      "Cryptography",
+      "Cache Control",
+      "Content Delivery"
+    ]
+  },
+  {
+    "Component": "Data Lifecycle Manager",
+    "Cloud Provider": "Amazon Web Services (AWS)",
+    "Labels": [
+      "Data Backup",
+      "Data Retention",
+      "Data Archival",
+      "AWS Backup",
+      "AWS Lifecycle Policies"
+    ]
+  },
+  {
+    "Component": "DynamoDB Global Table",
+    "Cloud Provider": "Amazon Web Services (AWS)",
+    "Labels": [
+      "NoSQL",
+      "Multi-Region Deployment",
+      "Global Data Distribution",
+      "Data Replication",
+      "Global Table Replication",
+      "AWS DynamoDB"
+    ]
+  },
+  {
+    "Component": "DynamoDB Table",
+    "Cloud Provider": "Amazon Web Services (AWS)",
+    "Labels": [
+      "NoSQL",
+      "Scalable",
+      "High performance",
+      "Key-value Store",
+      "AWS DynamoDB"
+    ]
+  },
+  {
+    "Component": "ECS Cluster",
+    "Cloud Provider": "Amazon Web Services (AWS)",
+    "Labels": [
+      "Container Orchestration",
+      "Elastic Container Service (ECS)",
+      "Docker Containers",
+      "Scalability",
+      "Load Balancing",
+      "AWS ECS"
+    ]
+  },
+  {
+    "Component": "ECS Service",
+    "Cloud Provider": "Amazon Web Services (AWS)",
+    "Labels": [
+      "Container Orchestration",
+      "Elastic Container Service (ECS)",
+      "Docker Containers",
+      "Scalability",
+      "Load Balancing",
+      "Deployments",
+      "AWS ECS"
+    ]
+  },
+  {
+    "Component": "ECS Task Definition",
+    "Cloud Provider": "Amazon Web Services (AWS)",
+    "Labels": [
+      "Container Orchestration",
+      "Elastic Container Service (ECS)",
+      "Docker Containers",
+      "Application architecture",
+      "Task configuration",
+      "AWS ECS"
+    ]
+  },
+  {
+    "Component": "Amazon EKS Cluster",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EKS",
+      "Cluster"
+    ]
+  },
+  {
+    "Component": "Amazon EKS Node Group",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EKS",
+      "Node Group"
+    ]
+  },
+  {
+    "Component": "AWS Glue Crawler",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Crawler"
+    ]
+  },
+  {
+    "Component": "AWS Glue Database",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Database"
+    ]
+  },
+  {
+    "Component": "AWS Glue Dev Endpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Development Endpoint"
+    ]
+  },
+  {
+    "Component": "AWS Glue Job",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Job"
+    ]
+  },
+  {
+    "Component": "AWS Glue Registry",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Registry"
+    ]
+  },
+  {
+    "Component": "AWS Glue Table",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Table"
+    ]
+  },
+  {
+    "Component": "AWS IAM Server Certificate",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS IAM",
+      "Server Certificate"
+    ]
+  },
+  {
+    "Component": "AWS IAM User",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS IAM",
+      "User"
+    ]
+  },
+  {
+    "Component": "AWS Lambda Function",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Lambda",
+      "Function"
+    ]
+  },
+  {
+    "Component": "AWS WAF Regional IP Set",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS WAF",
+      "Regional",
+      "IP Set"
+    ]
+  },
+  {
+    "Component": "AWS ELBv2 Listener Rule",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS ELBv2",
+      "Listener Rule"
+    ]
+  },
+  {
+    "Component": "AWS WAFv2 WebACL Association",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Web Application Firewall",
+      "WebACL",
+      "Security",
+      "Association",
+      "AWS WAFv2"
+    ]
+  },
+  {
+    "Component": "AWS WAF Regional Web ACL Association",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Web Application Firewall",
+      "WebACL",
+      "Security",
+      "Association",
+      "Region",
+      "AWS WAF"
+    ]
+  },
+  {
+    "Component": "AWS Secrets Manager Rotation Schedule",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Secrets Manager",
+      "Rotation",
+      "Schedule",
+      "Security",
+      "AWS Secrets Manager"
+    ]
+  },
+  {
+    "Component": "AWS Systems Manager Association",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Systems Manager",
+      "Association",
+      "AWS SSM",
+      "Infrastructure",
+      "Automation",
+      "Configuration"
+    ]
+  },
+  {
+    "Component": "Amazon NeptuneDB Cluster Parameter Group",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "NeptuneDB",
+      "Database",
+      "Cluster",
+      "Parameter Group",
+      "AWS Neptune"
+    ]
+  },
+  {
+    "Component": "AWS WAF Regional Geographic Match Rule",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Web Application Firewall",
+      "Regional",
+      "Geographic",
+      "Match Rule",
+      "Security",
+      "AWS WAF"
+    ]
+  },
+  {
+    "Component": "AWS Glue Connection",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Connection",
+      "Data Integration",
+      "ETL"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Capacity Reservation Fleet",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EC2",
+      "Capacity Reservation",
+      "Fleet",
+      "AWS EC2",
+      "Compute"
+    ]
+  },
+  {
+    "Component": "AWS Glue Data Catalog Encryption Settings",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Data Catalog",
+      "Encryption",
+      "Security",
+      "Settings",
+      "Data Management"
+    ]
+  },
+  {
+    "Component": "AWS Glue ML Transform",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "ML Transform",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Client VPN Authorization Rule",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EC2",
+      "Client VPN",
+      "Authorization Rule",
+      "Security",
+      "AWS EC2"
+    ]
+  },
+  {
+    "Component": "AWS Glue Partition",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Partition",
+      "Data Management",
+      "ETL"
+    ]
+  },
+  {
+    "Component": "AWS Glue Schema",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Schema",
+      "Data Management",
+      "ETL"
+    ]
+  },
+  {
+    "Component": "AWS Glue Schema Version",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Schema Version",
+      "Data Management",
+      "ETL"
+    ]
+  },
+  {
+    "Component": "AWS Glue Schema Version Metadata",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Schema Version",
+      "Metadata",
+      "Data Management",
+      "ETL"
+    ]
+  },
+  {
+    "Component": "AWS Glue Security Configuration",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Security",
+      "Configuration",
+      "Data Management",
+      "ETL"
+    ]
+  },
+  {
+    "Component": "AWS Glue Trigger",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Trigger",
+      "Data Management",
+      "ETL"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Client VPN Route",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EC2",
+      "Client VPN",
+      "Route",
+      "Networking",
+      "AWS EC2"
+    ]
+  },
+  {
+    "Component": "AWS Glue Workflow",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "AWS Glue",
+      "Workflow",
+      "Data Management",
+      "ETL"
+    ]
+  },
+  {
+    "Component": "AWS Lambda Alias",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Lambda",
+      "Alias",
+      "Serverless",
+      "Function",
+      "AWS Lambda"
+    ]
+  },
+  {
+    "Component": "AWS Lambda Code Signing Config",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Lambda",
+      "Code Signing",
+      "Configuration",
+      "Security",
+      "Serverless",
+      "AWS Lambda"
+    ]
+  },
+  {
+    "Component": "AWS Lambda Event Invoke Config",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Lambda",
+      "Event Invoke Config",
+      "Serverless",
+      "Function",
+      "AWS Lambda"
+    ]
+  },
+  {
+    "Component": "AWS Lambda",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Event Source Mapping",
+      "Serverless",
+      "Event Driven",
+      "Data Pipeline",
+      "Integration",
+      "AWS Lambda Trigger",
+      "Message Queues",
+      "DynamoDB Streams",
+      "Kinesis Stream"
+    ]
+  },
+  {
+    "Component": "AWS Lambda",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Layer Version",
+      "Code Reusability",
+      "Deployment Package",
+      "Function Configuration",
+      "Serverless",
+      "Runtime"
+    ]
+  },
+  {
+    "Component": "AWS Lambda",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Layer Version Permission",
+      "Permission Model",
+      "Access Control",
+      "Resource-level permissions"
+    ]
+  },
+  {
+    "Component": "AWS Lambda",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Permission",
+      "Access Control",
+      "Function Policy",
+      "Identity-based policies",
+      "Resource-based policies"
+    ]
+  },
+  {
+    "Component": "AWS Lambda",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Version",
+      "Function Versioning",
+      "Alias",
+      "Traffic Shifting",
+      "Testing",
+      "Deployment",
+      "Serverless",
+      "Runtime"
+    ]
+  },
+  {
+    "Component": "Amazon Redshift",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Cluster Parameter Group",
+      "Cluster Tuning",
+      "Performance Optimization",
+      "Resource Allocation",
+      "Workload Management",
+      "Query Execution",
+      "Security",
+      "Backup and Recovery"
+    ]
+  },
+  {
+    "Component": "Amazon Redshift",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Cluster Security Group Ingress",
+      "Security Group",
+      "Firewall Rules",
+      "Inbound Traffic",
+      "Outbound Traffic",
+      "EC2 Instances",
+      "VPC",
+      "Data Encryption"
+    ]
+  },
+  {
+    "Component": "Amazon Redshift",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Endpoint Access",
+      "Database Endpoint",
+      "Connectivity",
+      "Security",
+      "Virtual Private Cloud (VPC)",
+      "AWS Direct Connect",
+      "Encryption",
+      "SSL"
+    ]
+  },
+  {
+    "Component": "Amazon Redshift",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Endpoint Authorization",
+      "Database Endpoint",
+      "Access Control",
+      "Amazon Redshift Spectrum",
+      "SQL security",
+      "AWS Identity and Access Management (IAM)",
+      "Kerberos Authentication"
+    ]
+  },
+  {
+    "Component": "Amazon Redshift",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Event Subscription",
+      "Event-Driven Architecture",
+      "Notifications",
+      "Amazon SNS",
+      "Amazon SQS",
+      "CloudWatch",
+      "Audit Logging",
+      "Alerts"
+    ]
+  },
+  {
+    "Component": "Amazon Redshift",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Scheduled Action",
+      "Automated Management",
+      "Cluster Scaling",
+      "Pause",
+      "Resume",
+      "Starting Actions",
+      "Stopping Actions",
+      "Node Termination",
+      "Concurrent Queries",
+      "Maintenance Windows"
+    ]
+  },
+  {
+    "Component": "Amazon CloudFront",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Origin Access Identity",
+      "Security",
+      "Access Control",
+      "User Authentication",
+      "Integration with AWS Services",
+      "S3 Bucket Access",
+      "Lambda Function Access",
+      "API Gateway Access"
+    ]
+  },
+  {
+    "Component": "Amazon EC2",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Client VPN Target Network Association",
+      "VPN Connection",
+      "Networking",
+      "Virtual Private Network (VPN)",
+      "Security",
+      "Authorization",
+      "Authentication",
+      "User Management",
+      "Routing"
+    ]
+  },
+  {
+    "Component": "Amazon CloudFront",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Origin Request Policy",
+      "Request Routing",
+      "Security",
+      "Authorization",
+      "Access Control",
+      "Request Headers",
+      "Query Strings",
+      "Integration with AWS Services"
+    ]
+  },
+  {
+    "Component": "Amazon CloudFront",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Realtime Log Config",
+      "Access Logs",
+      "Monitoring",
+      "Analytics",
+      "Data Visualization",
+      "Integration with AWS Services",
+      "Kinesis Data Firehose Destination",
+      "S3 Bucket",
+      "AWS Lambda Function"
+    ]
+  },
+  {
+    "Component": "Content Delivery Network",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon CloudFront",
+      "Response Headers Policy",
+      "Content Delivery Network",
+      "AWS"
+    ]
+  },
+  {
+    "Component": "Virtual Machine",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Amazon EC2",
+      "Elastic IP",
+      "EIP association",
+      "Virtual Machine",
+      "AWS"
+    ]
+  },
+  {
+    "Component": "EC2 Enclave Certificate",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "IAM Role Association",
+      "Security",
+      "Certificate Management"
+    ]
+  },
+  {
+    "Component": "EC2 Gateway Route Table",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "VPC Networking",
+      "Route Table Association",
+      "EC2 Gateway"
+    ]
+  },
+  {
+    "Component": "EC2 IP Address Management",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "IPAM",
+      "VPC"
+    ]
+  },
+  {
+    "Component": "EC2 IP Address Management",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "IPAM",
+      "VPC",
+      "Allocation"
+    ]
+  },
+  {
+    "Component": "EC2 IP Address Management",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "IPAM",
+      "VPC",
+      "IP Pool"
+    ]
+  },
+  {
+    "Component": "EC2 IP Address Management",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "IPAM",
+      "VPC",
+      "IP Scope"
+    ]
+  },
+  {
+    "Component": "EC2 Launch Template",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Compute",
+      "Auto Scaling",
+      "Deployment"
+    ]
+  },
+  {
+    "Component": "EC2 Local Gateway Route",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "VPC Networking",
+      "Local Gateway"
+    ]
+  },
+  {
+    "Component": "EC2 Local Gateway Route Table",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "VPC Networking",
+      "Local Gateway",
+      "Route Table Association"
+    ]
+  },
+  {
+    "Component": "EC2 Network ACL Entry",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "VPC Networking",
+      "Access Control List",
+      "Firewall Rules"
+    ]
+  },
+  {
+    "Component": "EC2 Network Insights",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Access Control",
+      "VPC",
+      "Security"
+    ]
+  },
+  {
+    "Component": "EC2 Network Insights",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Access Control Analysis",
+      "VPC",
+      "Security"
+    ]
+  },
+  {
+    "Component": "EC2 Network Insights",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Traffic Monitoring",
+      "VPC",
+      "Security"
+    ]
+  },
+  {
+    "Component": "EC2 Network Insights",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Network Path",
+      "VPC",
+      "Troubleshooting"
+    ]
+  },
+  {
+    "Component": "API Gateway Account",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "API Gateway",
+      "Account Management",
+      "RESTful APIs"
+    ]
+  },
+  {
+    "Component": "EC2 Network Interface Attachment",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Interface Attachment",
+      "VPC"
+    ]
+  },
+  {
+    "Component": "Amazon ECS Capacity Provider",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "ECS",
+      "Capacity Management",
+      "Auto Scaling"
+    ]
+  },
+  {
+    "Component": "Amazon ECS Cluster Capacity Provider Association",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "ECS",
+      "Cluster Management",
+      "Capacity Provider Associations"
+    ]
+  },
+  {
+    "Component": "Amazon ECS Primary Task Set",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "ECS",
+      "Task Management",
+      "Deployment"
+    ]
+  },
+  {
+    "Component": "Amazon ECS Task Set",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "ECS",
+      "Task Management",
+      "Deployment"
+    ]
+  },
+  {
+    "Component": "Amazon EKS Addon",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EKS",
+      "Addon Management",
+      "Kubernetes"
+    ]
+  },
+  {
+    "Component": "Amazon EKS Fargate Profile",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EKS",
+      "Fargate",
+      "Profile Management",
+      "Kubernetes"
+    ]
+  },
+  {
+    "Component": "Amazon EMR Instance Fleet Config",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EMR",
+      "Instance Fleet",
+      "Configuration Management",
+      "Big Data"
+    ]
+  },
+  {
+    "Component": "Amazon EMR Instance Group Config",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EMR",
+      "Instance Group",
+      "Configuration Management",
+      "Big Data"
+    ]
+  },
+  {
+    "Component": "Amazon EMR Security Configuration",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EMR",
+      "Security Configuration",
+      "Big Data"
+    ]
+  },
+  {
+    "Component": "Amazon EMR Step",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EMR",
+      "Step Execution",
+      "Big Data"
+    ]
+  },
+  {
+    "Component": "EC2 Network Interface Permission",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Access Control",
+      "VPC"
+    ]
+  },
+  {
+    "Component": "Amazon EMR Studio",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EMR",
+      "Studio Management",
+      "Data Science"
+    ]
+  },
+  {
+    "Component": "Amazon EMR Studio Session Mapping",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "EMR",
+      "Session Management",
+      "Data Science"
+    ]
+  },
+  {
+    "Component": "EC2 Placement Group",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Virtual Machine",
+      "Placement Group",
+      "Compute"
+    ]
+  },
+  {
+    "Component": "EC2 Prefix List",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "VPC Networking",
+      "Access Control",
+      "Prefix List"
+    ]
+  },
+  {
+    "Component": "EC2 Route",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "VPC Networking",
+      "Route Management"
+    ]
+  },
+  {
+    "Component": "EC2 Subnet Network ACL Association",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "VPC Networking",
+      "Network ACL Association",
+      "Subnet Management"
+    ]
+  },
+  {
+    "Component": "EC2 Subnet Route Table Association",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "VPC Networking",
+      "Route Table Association",
+      "Subnet Management"
+    ]
+  },
+  {
+    "Component": "EC2 Traffic Mirror Filter",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Traffic Mirroring",
+      "VPC",
+      "Filtering"
+    ]
+  },
+  {
+    "Component": "AWS WAF Byte Match Set",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "WAF",
+      "Byte Match Set",
+      "Security",
+      "Web Applications"
+    ]
+  },
+  {
+    "Component": "EC2 Traffic Mirror Filter Rule",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Traffic Mirroring",
+      "VPC",
+      "Filtering"
+    ]
+  },
+  {
+    "Component": "AWS WAF Rule",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "WAF",
+      "Rule",
+      "Security",
+      "Web Applications"
+    ]
+  },
+  {
+    "Component": "AWS WAF Size Constraint Set",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "WAF",
+      "Size Constraint Set",
+      "Security",
+      "Web Applications"
+    ]
+  },
+  {
+    "Component": "AWS WAF SQL Injection Match Set",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "WAF",
+      "SQL Injection Match Set",
+      "Security",
+      "Web Applications"
+    ]
+  },
+  {
+    "Component": "AWS WAF Web ACL",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "WAF",
+      "ACL",
+      "Security",
+      "Web Applications"
+    ]
+  },
+  {
+    "Component": "AWS WAF XSS Match Set",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "WAF",
+      "XSS Match Set",
+      "Security",
+      "Web Applications"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Transit Gateway Connect",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Transit Gateway",
+      "VPN"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Transit Gateway Multicast Domain",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Transit Gateway",
+      "Multicast"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Transit Gateway Multicast Domain Association",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Transit Gateway",
+      "Multicast"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Transit Gateway Multicast Group Member",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Transit Gateway",
+      "Multicast"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Transit Gateway Multicast Group Source",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Transit Gateway",
+      "Multicast"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Transit Gateway Peering Attachment",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Transit Gateway",
+      "Peering"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Transit Gateway Route",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Transit Gateway",
+      "Route Management"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Transit Gateway Route Table Association",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Transit Gateway",
+      "Route Table Association"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Transit Gateway Route Table Propagation",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Transit Gateway",
+      "Route Table Propagation"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Transit Gateway VPC Attachment",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Networking",
+      "Transit Gateway",
+      "VPC Attachment"
+    ]
+  },
+  {
+    "Component": "Amazon API Gateway Domain Name",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "API Gateway",
+      "Domain Management",
+      "RESTful APIs"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Volume Attachment",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Virtual Machine",
+      "Volume Management",
+      "Compute"
+    ]
+  },
+  {
+    "Component": "Amazon API Gateway Deployment",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "API Gateway",
+      "Deployment",
+      "RESTful APIs"
+    ]
+  },
+  {
+    "Component": "Amazon API Gateway Authorizer",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "API Gateway",
+      "Authorization",
+      "RESTful APIs"
+    ]
+  },
+  {
+    "Component": "Amazon API GatewayV2 Authorizer",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "API Gateway",
+      "Authorization",
+      "RESTful APIs"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 VPC DHCP Options Association",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Virtual Private Cloud",
+      "DHCP Options",
+      "Association"
+    ]
+  },
+  {
+    "Component": "Amazon API GatewayV2 Stage",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "API Gateway",
+      "API GatewayV2",
+      "Deployment",
+      "Stage"
+    ]
+  },
+  {
+    "Component": "Amazon API Gateway Model",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "API Gateway",
+      "API Modeling",
+      "Data Validation",
+      "Schema"
+    ]
+  }
+]

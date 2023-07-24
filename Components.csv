@@ -1,0 +1,1628 @@
+Registration
+Change Password
+Contact Us
+Login
+Logout
+Add
+Database
+Settings
+Transfer Fund
+ACH Transfer
+Shopping Cart
+URL
+Notify
+VOIP Server
+Checkout
+Delete
+Edit
+Home
+Account
+Product
+Users
+Picture
+Profile
+Save
+Search
+Address Book
+Archives
+Billing
+Credit Card
+Email
+Lock
+Wire Transfer
+Statements
+Authorization
+SMS
+Forgot Password
+Call
+Forms
+Reports
+Admin
+File System
+Plugin
+Sync
+File
+Download
+Upload
+Generic Page
+SSH Server
+DNS
+SNMP
+File Server
+Web Service
+Web Browser
+Single Sign On
+HTTP
+SSL
+Generic Process
+OS Process
+Thread
+Native Application
+Web Application
+Virtual Machine
+Binary
+IPsec
+Named Pipe
+SMB
+RPC and or DCOM
+ALPC
+UDP
+IOCTL Interface
+Cache
+HTML5 Local Storage
+Cookies
+HTTPS
+Switch
+Bluetooth
+FTPS
+REST API
+POP3
+IMAP
+SMTP
+FTP Server
+NFS
+CIFS
+JDBC
+VOIP
+PDF
+MainFrame
+Transactions
+Ajax
+FTP
+Configuration File
+Pipe
+SMTPS
+TCP
+SAML
+Key Management Server
+Certificate Authorities
+LDAP
+Kerberos
+TDS
+Bluetooth Port
+Wi-Fi Port
+USB Port
+Ethernet Port
+HDMI Port
+Camera
+CompositeIn AV Port
+Digital Audio Out Port
+Analog Component Port
+RS-232
+Chat
+Card Reader
+Key Pad
+Dial-up Modem
+LCD Display
+Receipt Printer
+Check Reader
+Speaker
+Storage
+KMIP
+Motherboard
+SMS-P
+FCP
+iSCSI
+Backnet MSTP
+MongoDB Wire Protocol
+Gateway
+ZigBee
+WiFi
+Intrusion Sensors
+Thermostat
+Smart Watch
+Tablet
+Smart Door Locks
+Cable Modem
+Cellular Gateway
+3G
+ZigBee Interface
+Zwave Interface
+GSM
+Firmware
+Microsoft Azure Platform
+PSTN
+BACNET
+GPS
+Antenna
+Battery Monitor
+Transmitter
+Drone
+RF
+GNSS
+Amazon API Gateway
+Amazon CloudFront Distribution
+Amazon EC2 Instance
+Amazon EFS
+Amazon EBS
+Amazon Elastic Transcoder
+Amazon ElastiCache
+Amazon RDS
+Amazon Route 53
+Amazon SES
+AWS IAM
+AWS Lambda
+AWS CloudFormation
+AWS ELB
+Amazon AppStream 2.0
+Amazon CloudSearch
+Amazon CloudWatch
+Amazon Cognito
+Amazon DynamoDB
+Amazon ECR
+Amazon ECS
+Amazon EMR
+Amazon GameLift
+Amazon S3 Glacier
+Amazon Inspector
+Amazon Kinesis Firehose
+Amazon Kinesis
+Amazon Kinesis Analytics
+AWS Mechanical Turk
+Amazon QuickSight
+Amazon Redshift
+Amazon SNS
+Amazon SQS
+Amazon SWF
+Amazon VPC
+Amazon WorkDocs
+Amazon WorkMail
+Amazon WorkSpaces
+Amazon EC2 Auto Scaling Group
+AWS Availability Zone
+AWS CloudHSM
+AWS CloudTrail
+AWS CodeCommit
+AWS CodeDeploy
+AWS CodePipeline
+AWS Config
+AWS Data Pipeline
+AWS Database Migration Service
+AWS Device Farm
+AWS Direct Connect
+AWS Directory Service
+AWS Elastic Beanstalk
+AWS Snowball
+AWS IoT Device Defender
+AWS KMS
+AWS OpsWorks
+AWS Service Catalog
+AWS Storage Gateway
+AWS STS
+AWS Toolkit for Eclipse
+AWS Trusted Advisor
+AWS CloudShell
+AWS Elastic IP
+Amazon EC2 VPC Endpoint
+AWS Lambda Layer
+Amazon S3 Object
+Region
+AWS IAM Role
+Amazon EC2 Route Table
+Amazon SNS Topic
+AWS Backup Vault
+AWS NAT Instance
+Amazon VPC Subnet
+SatCom
+ACARS
+GES
+4G
+ADS-B
+Ethernet
+ATM
+Operating System
+iPhone
+Bot
+HyperV
+WebSockets
+MQTT
+SSH
+Email Server
+Laptop
+SWIFT
+ODBC
+TLS
+DHCP
+Building
+Sensor
+Smart Device
+External System
+IP
+OAuth Server
+Azure Virtual Machines
+Azure Cloud Services
+Azure Service Fabric Cluster
+Azure Batch Account
+Azure App Service
+Azure Virtual Network
+Azure Express Route Circuits
+Azure Traffic Manager
+Azure Active Directory
+Azure Media Services
+Azure Content Delivery Network Profile
+Azure Web Apps
+Azure Mobile Apps
+Azure API Apps
+Azure Logic Apps
+Azure API Management Service
+Azure Notification Hubs
+Azure HDInsight Clusters
+Azure Machine Learning Workspace
+Azure Stream Analytics Clusters
+Azure Data Factory
+Azure Event Hubs Instance
+Azure Blob
+Azure Backup Service
+Azure Import & Export Service
+Azure Site Recovery Vault
+Azure SQL Database
+Azure Cosmos DB Account
+Azure Redis Cache
+Azure Search Service
+Azure Table
+Azure Application Insights
+Azure Queue
+Azure Hybrid Connections
+Azure Service Bus Namespaces
+Azure Automation Accounts
+Azure Portal
+Azure Key Vault
+IO Drivers
+QNX desktop
+PH Relay
+Sensors
+SCADA Client
+SCADA Server
+Modbus Client
+Modbus Server
+Radius Client
+Radius Server
+Syslog Client
+Syslog Server
+Time Server
+TFTP Client
+LED
+IED
+Inter CPU Module 
+Local Authentication
+Bridge Man
+EMS
+DMS
+HMI
+Bay Controller
+D400 Gateway
+SMT Kernel
+Substation
+Process Bus
+Windows Event Log
+IEC 61850 Database
+Flex Control Database
+aView Client
+aView Server
+Tomcat Server
+Certificate Store
+Micom S1
+C264 Automation and Control
+Module
+PH Windows
+Relay
+TFTP Server
+Azure Load Balancer
+Azure Network Security Group
+Azure Site-to-Site VPN Gateway
+Azure Point-to-Site VPN Gateway
+Azure Storage Account
+Azure File
+Azure Shared Access Signature
+Azure Recovery Service Vault
+Azure Availability Sets
+Azure ARM Template
+Azure Virtual Machine Scale Sets
+Azure Application Gateway
+Azure Data Lake Analytics Account
+Azure Analysis Service Server
+Azure Functions
+Azure Active Directory B2C
+Azure IoT Hub
+Azure On-premises Data Gateway
+Azure Intune Service
+Azure Cognitive Account
+Azure Monitor
+Microsoft Defender for Cloud
+Azure Stack Hub
+Azure Relay Namespace
+Web Server
+Docker Engine
+BlockChain
+Distributed Ledger
+AWS CodeBuild
+Amazon Rekognition
+Amazon ES
+Amazon Athena
+Software
+Hardware
+2G
+5G
+RF Transceiver
+Smart Police Car System
+I2C
+UART
+SPI
+AWS ALB
+Bare Metal Server
+Virtual Server
+WEbSphere Application Server
+VMware vCenter Server
+VMware Cloud Foundation
+VMware vSphere
+NetApp ONTAP Select
+Fortigate Security Appliance
+Fortigate Virtual Appliance
+F5
+Hytrust CloudControl
+Hytrust DataControl
+IBM Cloud Secure Virtualization
+KMIP
+IBM Spectrum Protect Plus
+IBM Cloud Kubernetes Service
+Container Registry
+Content Delivery Network
+Domain Name Service
+Internet Service
+IPSec VPN
+Load Balancers
+Subnets and Ips
+Virtual Router Appliance
+VLAN Spanning
+Block Storage
+File Storage
+Object Storage
+Box
+Modbus
+Proxy Server
+VPN Server
+OAuth
+Router
+VLAN
+SOAP
+USB
+VPN
+MySql Prop
+Video Camera
+Jump Server
+AWS Certificate Manager
+Data Protection Class
+iOS
+SQL Database
+AWS User
+API
+Amazon Aurora
+AWS Shield
+AWS WAF
+Amazon EKS
+Amazon Lightsail
+Amazon Neptune
+AWS Migration Hub
+Amazon SageMaker
+Amazon Polly
+AWS Glue
+AWS Secrets Manager
+Amazon GuardDuty
+Amazon Sumerian
+AWS Server Migration Service
+AWS Cloud9
+AWS X-Ray
+AWS Systems Manager
+Amazon Comprehend
+AWS DeepLens
+Amazon Lex
+Amazon Transcribe
+Amazon Translate
+AWS Organizations
+AWS IAM Identity Center
+AWS Artifact
+AWS AppSync
+Amazon MQ
+AWS IoT Core
+AWS IoT 1-Click
+AWS IoT Analytics
+AWS IoT Greengrass
+AWS CodeStar
+Azure Bot Service
+Azure Databricks Workspaces
+Azure Web App for Containers
+Azure SignalR Service
+AWS Batch
+AWS Managed Services
+AWS Application Discovery Service
+Azure Computer Vision Service
+Azure Content Moderator Service
+Azure Custom Vision Service
+Azure Face Service
+Azure Machine Learning Studio Workspace
+Microsoft Genomics Account
+Azure Cognitive Service for Language
+Azure Speaker Recognition Service
+Azure Speech Translation Service
+Azure Speech Service
+Azure Translator
+Azure Video Indexer
+Azure Power BI Embedded
+Azure Data Catalog
+Azure Data Explorer Cluster
+Azure Linux Virtual Machines
+Azure CycleCloud
+Azure Kubernetes Cluster
+Azure Container Instances Group
+Azure Container Registry
+Sql Server on Azure Virtual Machines
+Azure Database for PostgreSQL
+Azure Database for MariaDB
+Azure Database for MySQL
+Azure Database Migration Service
+Azure Lab Services Labs
+Azure DevOps Project
+Azure Pipelines
+Azure Boards
+Azure Repos
+Azure Artifacts
+Azure Test Plans
+Azure DevTest Labs
+Azure Active Directory Domain Services
+Azure Event Grid Domains
+Azure IoT Edge
+Azure IoT Central Application
+Azure IoT Solution Accelerators
+Azure Sphere
+Azure Time Series Insights Environment
+Windows 10 IoT Core Services
+Azure Digital Twins Instance
+Azure Advisor
+Azure Service Health
+Azure Resource Group
+Azure Cloud Shell
+Azure Policy Definitions
+Azure Managed Applications
+Azure Media Player
+Azure Content Protection
+Azure Media Analytics
+Azure Cost Management
+Azure Migrate
+Azure Maps
+Azure Visual Studio App Center
+Azure DNS Zones
+Azure Network Watcher
+Azure Firewall
+Azure Virtual WAN
+Azure Front Door Instance
+Azure Information Protection
+Azure Dedicated HSM
+Azure VPN Gateway
+Azure DDoS Protection Plan
+Microsoft Defender for Identity
+Azure StorSimple Virtual Array
+Azure Data Lake Storage Account
+Azure Disk
+Azure Data Box
+Avere vFXT Cluster
+Azure NetApp Account
+AWS IoT FreeRTOS
+AWS IoT Device Management
+Amazon EC2 Network ACL
+Amazon EC2 Internet Gateway
+Amazon EC2 VPC Peering Connection
+AWS Serverless Application Repository
+Amazon FSx
+AWS Backup
+Amazon DocumentDB
+AWS DataSync
+AWS Transfer for SFTP
+AWS Cloud Map
+AWS Global Accelerator
+AWS RoboMaker
+Amazon Managed Blockchain
+AWS Ground Station
+AWS Control Tower
+AWS License Manager
+AWS Well-Architected Tool
+Amazon Kinesis Video Streams
+AWS MediaConnect
+AWS MediaConvert
+AWS MediaLive
+AWS MediaStore
+AWS MediaTailor
+Amazon Personalize
+Amazon Forecast
+Amazon Textract
+AWS Resource Access Manager
+AWS Security Hub
+AWS Marketplace
+AWS IoT Events
+AWS IoT SiteWise
+AWS IoT Things Graph
+Amazon WorkLink
+Amazon Chime
+Alexa for business
+Amazon Pinpoint
+Amazon Connect
+AWS Step Functions
+AWS Amplify
+Amazon S3
+Amazon S3 Bucket
+Amazon QLDB
+AWS Outposts
+Amazon Timestream
+Microsoft Sentinel
+AWS PrivateLink
+Azure Subnet
+Azure Public IP Address
+Azure Network Interface
+Azure Service Bus Queues
+Azure Service Bus Topics
+Azure DevTest Labs Formulas
+Azure Event Grid Subscriptions
+Proximity Sensor
+Accelerometer
+IR Sensor
+Pressure Sensor
+Light Sensor
+Ultrasonic Sensor
+Smoke Detector
+Touch Sensor
+Color Sensor
+Tilt Sensor
+Flow Sensor
+Level Sensor
+Image Sensor
+Z-Wave
+NFC
+CoAP
+AMQP
+DDS
+PLC
+PIC
+CAN Bus
+Fieldbus
+Microcontroller
+RTU
+Humidity Sensor
+Device Controller
+Digital Video Recorder
+Air Conditioner
+DVR
+Google App Engine
+Google Cloud Functions
+Google Compute Engine Instance
+Google Cloud Bigtable
+Google Cloud Datastore
+Google Cloud Spanner Instance
+Google Cloud SQL
+Google Cloud Storage Bucket
+Google Cloud Persistent Disk
+Google Cloud CDN
+Google Cloud Firewall Rules
+Google Cloud Load Balancer
+Google Cloud Dataflow
+Google Cloud Dataproc Cluster
+Google Cloud Talent Solution API
+Google Cloud AI Platform
+Google Cloud IAM
+Google Cloud Identity-Aware Proxy
+Google Titan Security Key
+Google Cloud APIs
+Google Cloud Error Reporting
+Google Cloud Logging
+Google Cloud Monitoring
+Google Cloud Operations
+Google Web Security Scanner
+Google Data Loss Prevention API
+Google Cloud Key Management Service
+Google Cloud Container Registry
+Google GPU
+Google Cloud DNS
+Google Cloud Interconnect
+Google Cloud Router
+Google Cloud VPN
+Google Cloud BigQuery Dataset
+Google Cloud Datalab Instance
+Google Cloud Dataprep
+Google Cloud Pub-Sub
+Google Data Studio
+Google Cloud Life Sciences
+Google Cloud Natural Language API
+Google Cloud Speech-to-text API
+Google Cloud Translation API
+Google Cloud Video Intelligence API
+Google Cloud Vision API
+Google BeyondCorp
+Google Cloud Deployment Manager
+Google Cloud Endpoints Service
+Google Cloud Debugger
+Google Cloud Trace
+Google Cloud Tools for Visual Studio
+Google Analytics
+Google Apigee API Platform
+Google Apigee Sense
+Google Cloud Composer Environment
+Google Cloud AutoML Dataset
+Google Cloud TPU
+Google Cloud Text-to-Speech API
+Google Dialogflow
+Google Cloud Security Command Center
+Google Cloud IoT Core
+Google Partner Interconnect
+Google Cloud Armor
+Google Cloud Filestore Instance
+Google Cloud Memorystore
+Azure Event Hub Namespace
+Microprocessor
+Software Program
+Wireless Cellular Chipset
+ECU
+Vehicle
+System Bus
+CorpNet TrustBoundry
+Generic Trust Boundry
+Cloud Server
+Cloud Storage
+Webservice
+Cloud
+Google Cloud VPC Subnet
+Google Account
+Google User
+Google Kubernetes Engine
+Google Cloud Run Service
+Google Cloud Organization
+Google Cloud NAT
+Google Cloud Audit Logs
+Google Cloud Storage Coldline
+Google Cloud VPC
+AWS Security Group
+AWS Account
+AWS Global Resources
+Thread - OS Kernel
+Web API
+External Web Application
+Solr Search
+Managed Application
+Identity Server
+Microsoft Dynamics CRM Portal
+Microsoft Dynamics CRM
+Microsoft Dynamics CRM  Mobile Client
+Microsoft Dynamics CRM Outlook Client
+HockeyApp
+Operations Management Suite OMS
+Windows Store Process
+Host
+Win32 Service
+Authorization Provider
+Windows Runtime
+Windows .NET Runtime
+Non Relational Database
+Local Storage
+Windows Communication Foundation WCF
+MegaService
+Integration Runtime
+Azure IoT protocol Gateway
+Azure Notebooks
+IoT Device
+Azure IoT Gateway
+Azure Management Group
+Azure Region
+Azure Subscription
+Azure ADFS
+Amazon EC2 Transit Gateway
+AWS Elastic Network Interface
+Salesforce
+Hive
+Thick Client
+Amazon EC2 Image Builder
+AWS App Mesh
+AWS IQ
+Amazon Braket
+AWS AppConfig
+Amazon Personal Health Dashboard
+AWS Chatbot
+AWS Launch Wizard
+AWS Compute Optimizer
+AWS MediaPackage
+Amazon CodeGuru
+Amazon Fraud Detector
+Amazon Kendra
+AWS DeepRacer
+Amazon Augmented AI
+AWS DeepComposer
+Amazon OpenSearch Service Domain
+AWS Data Exchange
+AWS Lake Formation
+Amazon Managed Streaming for Apache Kafka
+Amazon Macie
+AWS Firewall Manager
+Amazon Detective
+Amazon EventBridge
+AWS VPN
+Amazon EC2 Host
+Amazon Redshift Cluster Subnet Group
+Amazon RDS DB Subnet Group
+AWS Elastic Beanstalk Environment
+AWS IAM Group
+AWS WAF Rule Group
+Amazon EC2 VPN Gateway
+Amazon EC2 Customer Gateway
+Amazon EC2 Transit Gateway Route Table
+AWS App Mesh Virtual Node
+AWS App Mesh Virtual Router
+AWS App Mesh Route
+Amazon Redshift Cluster Security Group
+AWS IAM Policy
+AWS App Mesh Virtual Service
+Amazon EC2 Auto Scaling Launch Configuration
+Amazon RDS DB Security Group
+Azure Route Table
+Web Application Firewall
+SIEM
+IDS
+IPS
+Anti-virus for end user
+Anti-Virus for Server
+Secure Code Frameworks
+SAST Tool
+DAST Tool
+Identity Provider
+LDAP
+IAM Service
+IAST Tool
+5G Security Firewall
+SD-WAN
+Endpoint Detection and Response
+Bot Management
+File integrity monitoring software
+Smart cards
+Enterprise mobility management
+Two-factor authentication
+Mantrap
+Clipping Level
+Honeypot
+Honeynet
+Onion routing
+Code signing
+Trusted Execution Environment
+Traffic padding
+Security Audit
+Patch Management
+Data Wipe
+Air-gap
+Network segmentation
+Application Whitelisting
+Constrained User Interface
+Log Manager
+CAPTCHA
+Security Configuration Management Tool
+Vulnerability Scanning
+Secure Backup Solution
+Remote Access Control
+Data Classification Tool
+Anti-spyware
+Anti-adware
+Region
+Zone
+Google Cloud Artifact Registry
+Google Cloud Firestore Instance
+Google Cloud VPC Flow Logs
+Google Cloud Traffic Director
+Google Cloud Service Directory
+Google Recommendations AI
+Google Cloud Profiler
+Google Certificate Authority Service
+Google Cloud Identity Platform
+Google Cloud HSM
+Google Cloud Build
+Google Resource Manager API
+Google Cloud Secret Manager
+Google Anthos Service Mesh
+Google Cloud Looker
+Google Cloud Data Fusion Instance
+Auto-scaling
+CRUD
+Internet
+Read
+Load Balancer
+Firewall
+Third Party Web Service
+AWS KMS Key
+Amazon API Gateway Stage
+Amazon API Gateway RestApi
+AWS Config Configuration Recorder
+Amazon SageMaker Model
+Amazon EC2 Carrier Gateway
+Amazon EC2 Client VPN Endpoint
+Amazon API Gateway API Key
+Amazon API GatewayV2 Deployment
+Amazon API GatewayV2 Domain Name
+Amazon EC2 Egress Only Internet Gateway
+Amazon EC2 Fleet
+Amazon EC2 NAT Gateway
+Amazon EC2 Spot Fleet
+Amazon EC2 Subnet CIDR Block
+Amazon EC2 Traffic Mirror Session
+Amazon EC2 Traffic Mirror Target
+Amazon EC2 Transit Gateway Attachment
+Amazon EC2 VPC CIDR Block
+Amazon EMR Cluster
+Amazon RDS DB Instance
+Amazon RDS DB Proxy
+Amazon Route 53 Health Check
+Amazon S3 Access Point
+Amazon S3 Multi Region Access Point
+Amazon S3 Storage Lens
+AWS WAF IP Set
+Amazon CloudFront Cache Policy
+Amazon CloudFront Function
+Amazon CloudFront Public Key
+Amazon CloudFront Key Group
+Amazon Data Lifecycle Manager
+Amazon DynamoDB Global Table
+Amazon DynamoDB Table
+Amazon ECS Cluster
+Amazon ECS Service
+Amazon ECS Task Definition
+Amazon EKS Cluster
+Amazon EKS Node Group
+AWS Glue Crawler
+AWS Glue Database
+AWS Glue Dev Endpoint
+AWS Glue Job
+AWS Glue Registry
+AWS Glue Table
+AWS IAM Server Certificate
+AWS IAM User
+AWS Lambda Function
+AWS WAF Regional IP Set
+AWS ELBv2 Listener Rule
+AWS WAFv2 WebACL Association
+AWS WAF Regional Web ACL Association
+AWS Secrets Manager Rotation Schedule
+AWS Systems Manager Association
+Amazon NeptuneDB Cluster Parameter Group
+AWS WAF Regional Geographic Match Rule
+AWS Glue Connection
+Amazon EC2 Capacity Reservation Fleet
+AWS Glue Data Catalog Encryption Settings
+AWS Glue ML Transform
+Amazon EC2 Client VPN Authorization Rule
+AWS Glue Partition
+AWS Glue Schema
+AWS Glue Schema Version
+AWS Glue Schema Version Metadata
+AWS Glue Security Configuration
+AWS Glue Trigger
+Amazon EC2 Client VPN Route
+AWS Glue Workflow
+AWS Lambda Alias
+AWS Lambda Code Signing Config
+AWS Lambda Event Invoke Config
+AWS Lambda Event Source Mapping
+AWS Lambda Layer Version
+AWS Lambda Layer Version Permission
+AWS Lambda Permission
+AWS Lambda Version
+Amazon Redshift Cluster Parameter Group
+Amazon Redshift Cluster Security Group Ingress
+Amazon Redshift Endpoint Access
+Amazon Redshift Endpoint Authorization
+Amazon Redshift Event Subscription
+Amazon Redshift Scheduled Action
+Amazon CloudFront Origin Access Identity
+Amazon EC2 Client VPN Target Network Association
+Amazon CloudFront Origin Request Policy
+Amazon CloudFront Realtime Log Config
+Amazon CloudFront Response Headers Policy
+Amazon EC2 EIP Association
+Amazon EC2 Enclave Certificate IAM Role Association
+Amazon EC2 Gateway Route Table Association
+Amazon EC2 IPAM
+Amazon EC2 IPAM Allocation
+Amazon EC2 IPAM Pool
+Amazon EC2 IPAM Scope
+Amazon EC2 Launch Template
+Amazon EC2 Local Gateway Route
+Amazon EC2 Local Gateway Route Table VPC Association
+Amazon EC2 Network ACL Entry
+Amazon EC2 Network Insights Access Scope
+Amazon EC2 Network Insights Access Scope Analysis
+Amazon EC2 Network Insights Analysis
+Amazon EC2 Network Insights Path
+Amazon API Gateway Account
+Amazon EC2 Network Interface Attachment
+Amazon ECS Capacity Provider
+Amazon ECS Cluster Capacity Provider Associations
+Amazon ECS Primary Task Set
+Amazon ECS Task Set
+Amazon EKS Addon
+Amazon EKS Fargate Profile
+Amazon EMR Instance Fleet Config
+Amazon EMR Instance Group Config
+Amazon EMR Security Configuration
+Amazon EMR Step
+Amazon EC2 Network Interface Permission
+Amazon EMR Studio
+Amazon EMR Studio Session Mapping
+Amazon EC2 Placement Group
+Amazon EC2 Prefix List
+Amazon EC2 Route
+Amazon EC2 Subnet Network ACL Association
+Amazon EC2 Subnet Route Table Association
+Amazon EC2 Traffic Mirror Filter
+AWS WAF Byte Match Set
+Amazon EC2 Traffic Mirror Filter Rule
+AWS WAF Rule
+AWS WAF Size Constraint Set
+AWS WAF SQL Injection Match Set
+AWS WAF Web ACL
+AWS WAF XSS Match Set
+Amazon EC2 Transit Gateway Connect
+Amazon EC2 Transit Gateway Multicast Domain
+Amazon EC2 Transit Gateway Multicast Domain Association
+Amazon EC2 Transit Gateway Multicast Group Member
+Amazon EC2 Transit Gateway Multicast Group Source
+Amazon EC2 Transit Gateway Peering Attachment
+Amazon EC2 Transit Gateway Route
+Amazon EC2 Transit Gateway Route Table Association
+Amazon EC2 Transit Gateway Route Table Propagation
+Amazon EC2 Transit Gateway VPC Attachment
+Amazon API Gateway Domain Name
+Amazon EC2 Volume Attachment
+Amazon API Gateway Deployment
+Amazon API Gateway Authorizer
+Amazon API GatewayV2 Authorizer
+Amazon EC2 VPC DHCP Options Association
+Amazon API GatewayV2 Stage
+Amazon API Gateway Model
+Amazon API GatewayV2 Model
+Amazon EC2 VPC Endpoint Connection Notification
+Amazon API GatewayV2 VPC Link
+Amazon API Gateway VPC Link
+Amazon EC2 VPC Endpoint Service
+Amazon EC2 VPC Endpoint Service Permissions
+Amazon EC2 VPC Gateway Attachment
+Amazon EC2 VPN Connection Route
+Amazon EC2 VPN Gateway Route Propagation
+AWS WAFv2 IP Set
+AWS WAFv2 Logging Configuration
+AWS WAFv2 Regex Pattern Set
+AWS WAFv2 Web ACL
+AWS WAFv2 Rule Group
+AWS Glue Classifier
+Amazon S3 Bucket Policy
+AWS WAF Regional Byte Match Set
+AWS WAF Regional Rate Based Rule
+Amazon S3 Multi Region Access Point Policy
+AWS WAF Regional Regex Pattern Set
+AWS WAF Regional Size Constraint Set
+AWS WAF Regional SQL Injection Match Set
+AWS WAF Regional XSS Match Set
+AWS ELBv2 Listener
+AWS ELBv2 Listener Certificate
+AWS ELBv2 Target Group
+AWS IAM Access Key
+AWS IAM Virtual MFA Device
+AWS IAM Instance Profile
+AWS IAM Managed Policy
+AWS IAM OIDC Provider
+AWS IAM SAML Provider
+AWS IAM Service Linked Role
+AWS IAM User To Group Addition
+Amazon RDS DB Cluster Parameter Group
+Amazon RDS DB Parameter Group
+Amazon RDS DB Proxy Endpoint
+Amazon RDS DB Proxy Target Group
+Amazon RDS DB Security Group Ingress
+Amazon RDS Event Subscription
+Amazon RDS Global Cluster
+Amazon RDS Option Group
+AWS WAF Regional Rule
+AWS WAF Regional Web ACL
+Amazon API Gateway Base Path Mapping
+Amazon API Gateway Client Certificate
+Amazon API Gateway Documentation Part
+Amazon API Gateway Documentation Version
+Amazon API Gateway Gateway Response
+Amazon API Gateway Method
+Amazon API Gateway Request Validator
+AWS Config Delivery Channel
+Amazon API Gateway Usage Plan
+Amazon API Gateway Usage Plan Key
+Amazon API Gateway Resource
+Amazon SageMaker Endpoint Configuration
+Amazon SageMaker Endpoint
+Amazon API GatewayV2 API
+Amazon API GatewayV2 Integration
+Amazon API GatewayV2 Integration Response
+Amazon API GatewayV2 Route
+Amazon API GatewayV2 Route Response
+Amazon API GatewayV2 API Mapping
+Amazon API GatewayV2 API Gateway Managed Overrides
+K8s - API Server
+K8s - Etcd
+K8s - Scheduler
+K8s - Controller Manager
+K8s - Kubelet
+K8s - Kube-Proxy
+K8s - Node
+K8s - Control Plane
+K8s - Pod
+K8s - Kubectl
+K8s - ReplicaSet
+K8s - Load Balancer
+K8s - NodePort
+K8s - DaemonSet
+K8s - StatefulSet
+K8s - Secret
+K8s - Ingress
+K8s - PersistentVolume
+K8s - Cluster
+K8s - Cloud Controller Manager
+K8s - Namespace
+K8s - KubeFed
+K8s - Deployment
+K8s - Jobs
+K8s - CronJob
+K8s - ConfigMap
+K8s - Service
+K8s - Container
+MD - Insulin Pump
+MD - Monitor
+MD - Network
+MD - Pacemaker
+MD - X-Ray Radiation System
+MD - Application
+MD - Smart Device
+MD - Wi-Fi Port
+MD - Router
+MD - Sensor
+MD - Firmware
+MD - Wireless Communication Port
+MD - Device Controller
+MD - Gateway
+MD - Server
+MD - Medical Personnel
+MD - Work Station
+MD - Database
+MD - Pulse Sensor
+MD - Battery
+MD - NFC
+MD - Industrial PC
+MD - Firewall
+MD - Generator
+MD - Implantable Device
+MD - LAN
+MD - External Antenna
+Amazon EC2 DHCP Options
+Amazon EC2 Capacity Reservation
+Google Cloud Workflow
+AM - Server
+AM - GNSS
+AM - Firmware
+AM - ECU
+AM - Microcontroller
+AM - CAN Bus
+AM - Sensor
+AM - Camera
+AM - Microprocessor
+AM - NFC
+AM - Battery
+AM - Database
+AM - Gateway
+AM - Bluetooth
+AM - Actuator
+AM - WiFi
+AM - Application
+AM - Ethernet Bus
+AM - Memory
+AM - Consumer Mobile Device
+AM - LIN Bus
+AM - RF Wireless
+AM - Cellular Modem
+AM - Monitoring Station
+AM - A2B
+AM - FPD
+AM - Cryptographic Key
+AM - Windshield Wiper Control
+AM - Driver Alertness Monitoring
+AM - Instrument Cluster
+AM - Night Vision
+AM - Heads-Up Display
+AM - Entertainment System
+AM - DSRC
+AM - Battery Management
+AM - Lane Correction
+AM - Digital Turn Signals
+AM - Active Suspension
+AM - Hill-Assist Control
+AM - Tire Pressure Monitoring
+AM - OBDII
+AM - Antilock Braking
+AM - Interior Lighting
+AM - Seat Position Control
+AM - Transmission Control
+AM - Lane Departure Warning
+AM - Remote Keyless Entry
+AM - Airbag Deployment
+AM - Adaptive Front Lighting
+AM - Electric Power Steering
+AM - Parental Controls
+AM - Auto-Dimming Mirror
+AM - Electronic Valve Control
+AM - Adaptive Cruise Control
+AM - Accident Recorder
+AM - Cabin Environment Controls
+AM - Electronic Stability Control
+AM - ABS
+AM - Antenna
+AM - Security System
+AM - Regenerative Braking
+AM - Active Vibration Control
+AWS ACMPCA Certificate Authority
+AWS ACMPCA Permission
+Alexa Skills Kit
+AWS IAM Access Analyzer
+AWS ACMPCA Certificate
+Amazon MQ Configuration
+AWS Amplify Branch
+AWS Amplify Domain
+AWS Amplify UI Builder Component
+AWS Amplify UI Builder Theme
+AWS AppConfig Configuration Profile
+AWS AppConfig Deployment Strategy
+AWS AppConfig Environment
+Amazon AppFlow
+AWS AppIntegrations Data Integration
+AWS AppIntegrations Event Integration
+AWS Application Auto Scaling
+Amazon CloudWatch Application Insights
+AWS App Mesh Virtual Gateway
+AWS App Runner
+Amazon AppStream App Blocks
+Amazon AppStream Fleet
+Amazon AppStream Image Builder
+Amazon AppStream Stack
+Amazon AppStream User
+AWS AppSync API Key
+AWS AppSync GraphQL API
+AWS AppSync Resolver
+Amazon Managed Service for Prometheus
+Amazon Athena Data Catalog
+Amazon EC2 Auto Scaling Warm Pool
+AWS Auto Scaling Plan
+AWS Backup Plan
+AWS Batch Job Definition
+AWS Batch Job Queue
+AWS Budgets
+Amazon Keyspaces Table
+AWS CE Anomaly Monitor
+AWS CloudFormation Stack Set
+Amazon EC2 Auto Scaling Policy
+Amazon CloudWatch Composite Alarm
+Amazon CloudWatch Dashboard
+Amazon CloudWatch Metric Stream
+AWS CodeArtifact Domain
+AWS CodeArtifact Respositiry
+AWS CodeDeploy Deployment Config
+AWS CodeDeploy Deployment Group
+Amazon CodeGuru Reviewer
+AWS CodePipeline Webhook
+AWS CodeStar Connection
+Amazon Cognito User Pool
+Amazon Cognito User Pool Client
+Amazon Cognito User Pool Identity Provider
+Amazon Cognito User Pool User
+Amazon Connect Contact Flow
+Amazon Connect User
+Amazon Connect Customer Profiles Domain
+AWS Glue DataBrew Job
+AWS DataSync Task
+AWS DAX Cluster
+Google Cloud SDK
+Google Distributed Cloud Edge
+Google Cloud Dataplex
+Google Vertex AI
+Google Cloud API Gateway
+Google Vertex AI Workbench
+Google Vertex Explainable AI
+Google Cloud Document AI
+Google AppSheet
+Google AppSheet Automation
+Google Cloud BigLake
+AWS DAX Subnet Group
+AWS DevOps Guru
+AWS DMS Replication Instance
+AWS DMS Replication Subnet Group
+AWS DMS Replication Task
+Amazon DocumentDB Instance
+Amazon DocumentDB Subnet Group
+Amazon EC2 Flow Log
+Amazon EC2 Security Group Egress
+Amazon EC2 Security Group Ingress
+Amazon ECR Public Repository
+Amazon ECR Replication Configuration
+Amazon EFS Access Point
+Amazon ElastiCache Security Group
+Amazon ElastiCache Security Group Ingress
+Amazon ElastiCache Subnet Group
+Amazon ElastiCache User
+Amazon ElastiCache User Group
+Amazon EMR on EKS
+Amazon EMR Serverless
+Amazon EventBridge Archive
+Amazon EventBridge Endpoint
+Amazon EventBridge EventBus
+Amazon EventBridge Schema Registry
+Amazon CloudWatch Evidently Experiment
+Amazon CloudWatch Evidently Feature
+Amazon Finspace Environment
+AWS Fault Injection Simulator
+Amazon FSx Storage Virtual Machine
+Amazon FSx Volume
+Amazon GameLift Game Server Group
+AWS Global Accelerator Endpoint Group
+AWS Global Accelerator Listener
+AWS Greengrass V2 Component Version
+AWS Ground Station Dataflow Endpoint Group
+AWS Ground Station Mission Profile
+Amazon HealthLake
+Amazon Connect Wisdom Assistant
+Amazon Connect Wisdom Knowledge Base
+Amazon Connect Voice ID
+AWS Transfer Family User
+Amazon Timestream Table
+Amazon Timestream Scheduled Query
+Amazon CloudWatch Synthetics
+AWS Systems Manager Document
+Amazon SNS Subscription
+AWS Cloud Map Instance
+AWS Service Catalog App Registry
+AWS Service Catalog Portfolio Share
+Amazon SimpleDB
+Amazon SageMaker Workteam
+Amazon SageMaker User Profile
+Amazon SageMaker Project
+Amazon SageMaker Pipeline
+Amazon SageMaker Notebook Instance Lifecycle Config
+Amazon SageMaker Model Package
+Amazon SageMaker Domain
+Amazon SageMaker Image
+Amazon SageMaker Feature Group
+Amazon SageMaker Device
+Amazon SageMaker Device Fleet
+Amazon SageMaker App
+Amazon SageMaker Code Repository
+Amazon S3 on Outposts Endpoint
+Amazon S3 on Outposts Bucket
+Amazon S3 on Outposts Access Point
+Amazon S3 Object Lambda Access Point
+Amazon CloudWatch RUM
+Amazon Route 53 Resolver Endpoint
+Amazon Route 53 Resolver Firewall Rule Group
+AWS Migration Hub Refactor Spaces Application
+AWS Migration Hub Refactor Spaces Service
+AWS Resilience Hub
+AWS RoboMaker Robot Application
+AWS RoboMaker Simulation Application
+Amazon Route 53 DNSSEC
+Amazon Route 53 Key Signing Key
+Amazon Route 53 Record Set
+Amazon Route 53 Record Set Group
+Amazon Route 53 ARC Cluster
+Amazon Route 53 ARC Control Panel
+Amazon Route 53 ARC Cell
+Amazon Route 53 ARC Recovery Group
+Amazon Route 53 ARC Resource Set
+Amazon QuickSight Template
+Amazon QuickSight Data Source
+Amazon QuickSight Data Set
+Amazon QuickSight Analysis
+Amazon QLDB Stream
+Amazon EC2 Image Builder Image Pipeline
+AWS IoT Authorizer
+AWS IoT Certificate
+AWS IoT Job Template
+AWS IoT Provisioning Template
+AWS IoT Role Alias
+AWS IoT Security Profile
+AWS IoT Thing
+AWS IoT Topic Rule
+AWS IoT 1-Click Project
+AWS IoT Analytics Pipeline
+AWS IoT Analytics Datastore
+AWS IoT Analytics Dataset
+AWS IoT Events Alarm Model
+AWS IoT Events Detector Model
+AWS IoT Fleet Hub
+AWS IoT SiteWise Project
+AWS IoT SiteWise Gateway
+AWS IoT SiteWise Dashboard
+AWS IoT SiteWise Asset
+AWS IoT TwinMaker Workspace
+AWS IoT TwinMaker Scene
+AWS IoT TwinMaker Entity
+AWS IoT Wireless Device Profile
+AWS IoT Wireless Fuota Task
+AWS IoT Wireless Multicast Group
+AWS IoT Wireless Partner Account
+AWS IoT Wireless Service Profile
+AWS IoT Wireless Task Definition
+AWS IoT Wireless Device
+AWS IoT Wireless Gateway
+AWS IVS Channel
+AWS IVS Playback Key Pair
+AWS IVS Recording Configuration
+AWS IVS Stream Key
+Amazon Kendra Datasource
+Amazon Kinesis Stream Consumer
+Amazon Kinesis Analytics Application Output
+Amazon Kinesis Analytics V2 Application
+Amazon Kinesis Analytics V2 Application Output
+Amazon Kinesis Firehose Delivery Stream
+Amazon Kinesis Video Signaling Channel
+AWS Lake Formation Resource
+AWS Lambda URL
+Amazon Lex Bot
+Amazon Lightsail Bucket
+Amazon Lightsail Certificate
+Amazon Lightsail Container
+Amazon Lightsail Database
+Amazon Lightsail Disk
+Amazon Lightsail Distribution
+Amazon Lightsail Load Balancer
+Amazon Lightsail Load Balancer TLS Certificate
+Amazon Location Service Map
+Amazon Location Service Tracker
+Amazon CloudWatch Logs Destination
+Amazon CloudWatch Logs Log Group
+Amazon CloudWatch Logs Log Stream
+Amazon Lookout for Metrics
+Amazon Lookout for Equipment
+Amazon Managed Blockchain Member
+AWS Elemental MediaConnect Flow Source
+AWS Elemental MediaConnect Flow VPC Interface
+AWS Elemental MediaCovert Job Template
+AWS Elemental MediaLive Input
+AWS Elemental MediaLive Input Security Group
+AWS Elemental MediaPackage Asset
+AWS Elemental MediaPackage Origin Endpoint
+AWS Elemental MediaPackage Packaging Group
+Amazon MemoryDB ACL
+Amazon MemoryDB Cluster
+Amazon MemoryDB Parameter Group
+Amazon MemoryDB User
+Amazon MemoryDB Subnet Group
+Amazon NeptuneDB Instance
+Amazon NeptuneDB Parameter Group
+Amazon NeptuneDB Subnet Group
+AWS Network Firewall
+AWS Network Firewall Policy
+AWS Network Manager Device
+AWS Network Manager Link
+AWS Network Manager Site
+AWS Network Manager Site-to-Site VPN Attachment
+AWS Network Manager VPC Attachment
+Amazon Nimble Studio Launch Profile
+Amazon Nimble Studio Streaming Image
+Amazon Nimble Studio
+Amazon Nimble Studio Studio Component
+AWS OpsWorks App
+AWS OpsWorks ELB Attachment
+AWS OpsWorks Stack
+AWS OpsWorks User Profile
+AWS OpsWorks Volume
+AWS OpsWorks CM
+AWS Panorama Application Instance
+AWS Panorama Package
+Amazon Personalize Dataset
+Amazon Personalize Dataset Group
+Amazon Personalize Schema
+Amazon Pinpoint ADM Channel
+Amazon Pinpoint APNS Channel
+Amazon Pinpoint APNS Sandbox Channel
+Amazon Pinpoint APNS VoIP Channel
+Amazon Pinpoint APNS VoIP Sandbox Channel
+Amazon Pinpoint Baidu Channel
+Amazon Pinpoint Email Channel
+Amazon Pinpoint Event Stream
+Amazon Pinpoint GCM Channel
+Amazon Pinpoint SMS Channel
+Amazon Pinpoint Voice Channel
+Amazon Pinpoint Email Identity
+Amazon EC2 Image Builder Component
+Amazon EC2 Key Pair
+AWS IoT Core Device Advisor Suite Definition
+AWS Service Catalog Service Action
+AWS Service Catalog App Registry Attribute Group
+AWS Cloud Map Service
+AWS Signer
+AWS Systems Manager Maintenance Window
+AWS Systems Manager Parameter
+AWS Systems Manager Incident Manager Contacts
+AWS Systems Manager Incident Manager
+AWS Fargate
+Amazon Managed Workflows for Apache Airflow
+Amazon Athena Named Query
+AWS CodeBuild Source Credential
+Amazon Athena Prepared Statement
+AWS Backup Framework
+AWS Backup Report Plan
+AWS Backup Selection
+Amazon Athena WorkGroup
+AWS CodeDeploy Application
+Amazon CodeGuru Profiler
+AWS CodePipeline Custom Action Type
+AWS CodeStar Notifications
+Amazon Cognito Identity Pool
+AWS DataSync Agent
+AWS DMS Endpoint
+AWS DMS Certificate
+Amazon DocumentDB Cluster Parameter Group
+Amazon DocumentDB Cluster
+Amazon EC2 Image Builder Container Recipe
+Amazon EC2 Image Builder Image Recipe
+Amazon EC2 Image Builder Infrastructure Configuration
+Amazon EC2 Image Builder Distribution Configuration
+Google Cloud Analytics Hub
+Google Cloud AlloyDB for PostgreSQL
+Google Cloud Bare Metal Solution
+Google Cloud Scheduler
+Google Cloud Source Repositories
+Google Cloud Tasks
+Google Cloud Deploy
+Google Cloud Tools for Eclipse
+Google Cloud Tools for Powershell
+Google Cloud Healthcare API
+Google Service Catalog
+Google Cloud Game Servers
+Google Cloud Live Stream API
+Google Cloud Video Stitcher API
+Google Cloud Domains
+Google Cloud IDS
+Google Cloud Network Connectivity Center
+Google Cloud Access Transparency
+Google Cloud Assured Workloads
+Google Cloud Binary Authorization
+Google Chronicle Security Operations
+Google Cloud Asset Inventory
+Google Cloud Risk Manager
+Google Cloud VPC Service Controls
+Google Cloud Policy Intelligence
+Google Container-Optimized OS
+Azure User
+Amazon ElastiCache Replication Group
+Firewall Copy
+Feed
+Google Cloud Routes
+Amazon RDS for PostgreSQL
+Dynatrace
+Jenkins
+PostgreSQL
+Spinnaker
+Amazon ECR Registry Policy
+Amazon ECR Pull Through Cache Rule
+Amazon EventBridge Rule
+Amazon EventBridge Schema
+Amazon EventBridge Pipes
+Amazon EventBridge Scheduler
+Amazon Systems Manager Patch Baseline
+AWS Resource Groups
+AWS Service Catalog CloudFormation Product
+AWS Service Catalog Portfolio
+Azure Log Analytics
+Azure Synapse Analytics
+Python
+Component1
+test department
+Component2
+Component3
+Protocol1
+Protocol2
+Protocol3
+SC1
+SC2
+SC3
+TB1
+TB2
+TB3
+123
+Trust Boundary
+New Trust Boundary
+Interchangeable entity
+trust
+Entity to change
+Interchangeble 1
+Interchangeable 2
+TB9
+Comp11
+TB11
+QAZ
+TB13
+TB14
+TB15
+TB16
+30423
+Comp101 edited
+Comp102000
+Comp103
+ncomp1
+d040420231
+TB04042023
+Comp106
+Comp107
+Comp108
+neeraj
+neeraj
+Comp200
+Comp201
+Comp202
+Comp203
+Test234_1
+OneComponent
+OneComponent
+New Demo Pat
+TestComponent
+newcompa
+newcompa1
+newcompa2
+newcompa3
+newcompa4
+newcompa5
+newcompa6
+newcompa7
+demcom
+demcom1
+demcomp5
+demcomp6
+demcopm7
+demcom98
+demcom99
+demcom100
+SB-Component
+SB-NEW-COMPONENT
+Comp103 Deep Copy
+NewEn
+Alexa for business
+TB22
+test delete me
+d18042023
+d18042023 Deep Copy
+chinese component
+Terraform Component
+test23 Deep Copy
+DD
+compo123
+030423 Copy
+test
+test english
+test
+New Component from TF
+tes01
+p1
+TESTCMP
+Comp106 Deep Copy
+TestGK

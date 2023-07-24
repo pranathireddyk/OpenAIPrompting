@@ -1,0 +1,1798 @@
+[
+  {
+    "Component": "Amazon CloudWatch Logs",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Log Stream",
+      "CloudWatch",
+      "Logs"
+    ]
+  },
+  {
+    "Component": "Amazon Lookout for Metrics",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Anomaly detection",
+      "Metrics"
+    ]
+  },
+  {
+    "Component": "Amazon Lookout for Equipment",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Industrial Equipment",
+      "Anomaly detection",
+      "Maintenance"
+    ]
+  },
+  {
+    "Component": "Amazon Managed Blockchain",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Blockchain",
+      "Member"
+    ]
+  },
+  {
+    "Component": "AWS Elemental MediaConnect",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Flow Source",
+      "MediaConnect",
+      "Media"
+    ]
+  },
+  {
+    "Component": "AWS Elemental MediaConnect",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Flow",
+      "VPC Interface",
+      "MediaConnect",
+      "Media"
+    ]
+  },
+  {
+    "Component": "AWS Elemental MediaConvert",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Job Template",
+      "MediaConvert",
+      "Media"
+    ]
+  },
+  {
+    "Component": "AWS Elemental MediaLive",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Input",
+      "MediaLive",
+      "Media"
+    ]
+  },
+  {
+    "Component": "AWS Elemental MediaLive",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Input Security Group",
+      "Security Group",
+      "MediaLive",
+      "Media"
+    ]
+  },
+  {
+    "Component": "AWS Elemental MediaPackage",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Asset",
+      "MediaPackage",
+      "Media"
+    ]
+  },
+  {
+    "Component": "AWS Elemental MediaPackage",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Origin Endpoint",
+      "MediaPackage",
+      "Media"
+    ]
+  },
+  {
+    "Component": "AWS Elemental MediaPackage",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Packaging Group",
+      "MediaPackage",
+      "Media"
+    ]
+  },
+  {
+    "Component": "Amazon MemoryDB",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Access Control List",
+      "MemoryDB",
+      "Database"
+    ]
+  },
+  {
+    "Component": "Amazon MemoryDB",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Cluster",
+      "MemoryDB",
+      "Database"
+    ]
+  },
+  {
+    "Component": "Amazon MemoryDB",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Parameter Group",
+      "MemoryDB",
+      "Database"
+    ]
+  },
+  {
+    "Component": "Amazon MemoryDB",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "User",
+      "MemoryDB",
+      "Database"
+    ]
+  },
+  {
+    "Component": "Amazon MemoryDB",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Subnet Group",
+      "MemoryDB",
+      "Database"
+    ]
+  },
+  {
+    "Component": "Amazon Neptune",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Instance",
+      "Neptune",
+      "Graph Database"
+    ]
+  },
+  {
+    "Component": "Amazon Neptune",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Parameter Group",
+      "Neptune",
+      "Graph Database"
+    ]
+  },
+  {
+    "Component": "Amazon Neptune",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Subnet Group",
+      "Neptune",
+      "Graph Database"
+    ]
+  },
+  {
+    "Component": "AWS Network Firewall",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Firewall",
+      "Security"
+    ]
+  },
+  {
+    "Component": "AWS Network Firewall",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Policy",
+      "Firewall",
+      "Security"
+    ]
+  },
+  {
+    "Component": "AWS Network Manager",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Device",
+      "Network Manager",
+      "Network"
+    ]
+  },
+  {
+    "Component": "AWS Network Manager",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Link",
+      "Network Manager",
+      "Network"
+    ]
+  },
+  {
+    "Component": "AWS Network Manager",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Site",
+      "Network Manager",
+      "Network"
+    ]
+  },
+  {
+    "Component": "AWS Network Manager",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Site-to-Site VPN Attachment",
+      "VPN",
+      "Network"
+    ]
+  },
+  {
+    "Component": "AWS Network Manager",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "VPC Attachment",
+      "Network Manager",
+      "Network"
+    ]
+  },
+  {
+    "Component": "Amazon Nimble Studio",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Launch Profile",
+      "Nimble Studio",
+      "Media"
+    ]
+  },
+  {
+    "Component": "Amazon Nimble Studio",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Streaming Image",
+      "Nimble Studio",
+      "Media"
+    ]
+  },
+  {
+    "Component": "Amazon Nimble Studio",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Studio",
+      "Nimble Studio",
+      "Media"
+    ]
+  },
+  {
+    "Component": "Amazon Nimble Studio",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Studio Component",
+      "Nimble Studio",
+      "Media"
+    ]
+  },
+  {
+    "Component": "AWS OpsWorks",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "App",
+      "OpsWorks",
+      "Deployment"
+    ]
+  },
+  {
+    "Component": "AWS OpsWorks",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "ELB Attachment",
+      "OpsWorks",
+      "Deployment"
+    ]
+  },
+  {
+    "Component": "AWS OpsWorks",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Stack",
+      "OpsWorks",
+      "Deployment"
+    ]
+  },
+  {
+    "Component": "AWS OpsWorks",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "User Profile",
+      "OpsWorks",
+      "Deployment"
+    ]
+  },
+  {
+    "Component": "AWS OpsWorks",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Volume",
+      "OpsWorks",
+      "Deployment"
+    ]
+  },
+  {
+    "Component": "AWS OpsWorks",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "OpsWorks CM",
+      "Deployment",
+      "Configuration Management"
+    ]
+  },
+  {
+    "Component": "AWS Panorama",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Application Instance",
+      "Panorama",
+      "IoT"
+    ]
+  },
+  {
+    "Component": "AWS Panorama",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Package",
+      "Panorama",
+      "IoT"
+    ]
+  },
+  {
+    "Component": "Amazon Personalize",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Dataset",
+      "Personalize",
+      "Machine Learning"
+    ]
+  },
+  {
+    "Component": "Amazon Personalize",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Dataset Group",
+      "Personalize",
+      "Machine Learning"
+    ]
+  },
+  {
+    "Component": "Amazon Personalize",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Schema",
+      "Personalize",
+      "Machine Learning"
+    ]
+  },
+  {
+    "Component": "Amazon Pinpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "ADM Channel",
+      "Pinpoint",
+      "Marketing"
+    ]
+  },
+  {
+    "Component": "Amazon Pinpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "APNS Channel",
+      "Pinpoint",
+      "Marketing"
+    ]
+  },
+  {
+    "Component": "Amazon Pinpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "APNS Sandbox Channel",
+      "Pinpoint",
+      "Marketing"
+    ]
+  },
+  {
+    "Component": "Amazon Pinpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "APNS VoIP Channel",
+      "Pinpoint",
+      "Marketing"
+    ]
+  },
+  {
+    "Component": "Amazon Pinpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "APNS VoIP Sandbox Channel",
+      "Pinpoint",
+      "Marketing"
+    ]
+  },
+  {
+    "Component": "Amazon Pinpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Baidu Channel",
+      "Pinpoint",
+      "Marketing"
+    ]
+  },
+  {
+    "Component": "Amazon Pinpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Email Channel",
+      "Pinpoint",
+      "Marketing"
+    ]
+  },
+  {
+    "Component": "Amazon Pinpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Event Stream",
+      "Pinpoint",
+      "Marketing"
+    ]
+  },
+  {
+    "Component": "Amazon Pinpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "GCM Channel",
+      "Pinpoint",
+      "Marketing"
+    ]
+  },
+  {
+    "Component": "Amazon Pinpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "SMS Channel",
+      "Pinpoint",
+      "Marketing"
+    ]
+  },
+  {
+    "Component": "Amazon Pinpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Voice Channel",
+      "Pinpoint",
+      "Marketing"
+    ]
+  },
+  {
+    "Component": "Amazon Pinpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Email Identity",
+      "Pinpoint",
+      "Marketing"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Image Builder",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Component",
+      "Image Builder",
+      "Infrastructure"
+    ]
+  },
+  {
+    "Component": "Amazon EC2",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Key Pair",
+      "EC2",
+      "Infrastructure"
+    ]
+  },
+  {
+    "Component": "AWS IoT Core Device Advisor",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Suite Definition",
+      "IoT Core",
+      "QA Testing"
+    ]
+  },
+  {
+    "Component": "AWS Service Catalog",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Service Action",
+      "Service Catalog",
+      "Deployment"
+    ]
+  },
+  {
+    "Component": "AWS Service Catalog App Registry",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Attribute Group",
+      "App Registry",
+      "Metadata"
+    ]
+  },
+  {
+    "Component": "AWS Cloud Map",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Service",
+      "Cloud Map",
+      "Networking"
+    ]
+  },
+  {
+    "Component": "AWS Signer",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Code Signing",
+      "Security"
+    ]
+  },
+  {
+    "Component": "AWS Systems Manager",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Maintenance Window",
+      "Systems Manager",
+      "Operations"
+    ]
+  },
+  {
+    "Component": "AWS Systems Manager",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Parameter",
+      "Systems Manager",
+      "Operations"
+    ]
+  },
+  {
+    "Component": "AWS Systems Manager Incident Manager",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Contacts",
+      "Incident Manager",
+      "Operations"
+    ]
+  },
+  {
+    "Component": "AWS Systems Manager Incident Manager",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Incident Manager",
+      "Operations"
+    ]
+  },
+  {
+    "Component": "AWS Fargate",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Container",
+      "Compute",
+      "Deployment"
+    ]
+  },
+  {
+    "Component": "Amazon Managed Workflows for Apache Airflow",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Workflow",
+      "Apache Airflow",
+      "Data Processing"
+    ]
+  },
+  {
+    "Component": "Amazon Athena",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Named Query",
+      "Athena",
+      "Big Data"
+    ]
+  },
+  {
+    "Component": "AWS CodeBuild",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Source Credential",
+      "CodeBuild",
+      "DevOps"
+    ]
+  },
+  {
+    "Component": "Amazon Athena",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Prepared Statement",
+      "Athena",
+      "Big Data"
+    ]
+  },
+  {
+    "Component": "AWS Backup",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Framework",
+      "Backup",
+      "Data Protection"
+    ]
+  },
+  {
+    "Component": "AWS Backup",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Report Plan",
+      "Backup",
+      "Data Protection"
+    ]
+  },
+  {
+    "Component": "AWS Backup",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Selection",
+      "Backup",
+      "Data Protection"
+    ]
+  },
+  {
+    "Component": "Amazon Athena",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "WorkGroup",
+      "Athena",
+      "Big Data"
+    ]
+  },
+  {
+    "Component": "AWS CodeDeploy",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Application",
+      "CodeDeploy",
+      "Deployment"
+    ]
+  },
+  {
+    "Component": "Amazon CodeGuru Profiler",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Profiler",
+      "CodeGuru",
+      "Code Optimization"
+    ]
+  },
+  {
+    "Component": "AWS CodePipeline",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Custom Action Type",
+      "CodePipeline",
+      "DevOps"
+    ]
+  },
+  {
+    "Component": "AWS CodeStar Notifications",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Notifications",
+      "CodeStar",
+      "DevOps"
+    ]
+  },
+  {
+    "Component": "Amazon Cognito",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Identity Pool",
+      "Cognito",
+      "Identity Management"
+    ]
+  },
+  {
+    "Component": "AWS DataSync Agent",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Data Migration",
+      "Data Transfer",
+      "Cloud Storage",
+      "Data Sync",
+      "Hybrid Cloud",
+      "Object Storage",
+      "Replication",
+      "Disaster Recovery"
+    ]
+  },
+  {
+    "Component": "AWS DMS Endpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Data Migration",
+      "Database Migration",
+      "Cloud Integration",
+      "ETL",
+      "Relational Database",
+      "NoSQL Database",
+      "Schema Conversion",
+      "Data Transformation"
+    ]
+  },
+  {
+    "Component": "AWS DMS Certificate",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Data Migration",
+      "Database Migration",
+      "Security",
+      "Encryption",
+      "SSL/TLS",
+      "Digital Certificate"
+    ]
+  },
+  {
+    "Component": "Amazon DocumentDB Cluster Parameter Group",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Database",
+      "Relational Database",
+      "NoSQL Database",
+      "Parameter Group",
+      "Amazon DocumentDB",
+      "Configuration",
+      "Performance Optimization"
+    ]
+  },
+  {
+    "Component": "Amazon DocumentDB Cluster",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Database",
+      "Relational Database",
+      "NoSQL Database",
+      "Amazon DocumentDB",
+      "Cluster",
+      "High Availability",
+      "Scalability",
+      "Performance Optimization"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Image Builder Container Recipe",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "DevOps",
+      "Containerization",
+      "Docker",
+      "Amazon EC2",
+      "Image Building",
+      "Automation",
+      "Container Registry",
+      "Continuous Integration",
+      "Continuous Delivery",
+      "Security"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Image Builder Image Recipe",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "DevOps",
+      "Automation",
+      "Image Building",
+      "Amazon EC2",
+      "Golden Image",
+      "Infrastructure as Code",
+      "Security",
+      "Instance Configuration",
+      "Operating System Configuration"
+    ]
+  },
+  {
+    "Component": "Amazon EC2 Image Builder Infrastructure Configuration",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "DevOps",
+      "Automation",
+      "Image Building",
+      "Amazon EC2",
+      "Golden Image",
+      "Infrastructure as Code",
+      "Security",
+      "Instance Configuration",
+      "Operating System Configuration"
+    ]
+  },
+  {
+    "Component": "DataSync Agent",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "File Transfer",
+      "Data Synchronization",
+      "Cloud Storage Migration",
+      "AWS DataSync"
+    ]
+  },
+  {
+    "Component": "DMS Endpoint",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Data Migration",
+      "Database Replication",
+      "AWS DMS"
+    ]
+  },
+  {
+    "Component": "DMS Certificate",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Database Migration",
+      "Replication",
+      "Data Security",
+      "SSL/TLS Certificate",
+      "AWS DMS"
+    ]
+  },
+  {
+    "Component": "DocumentDB Cluster Parameter Group",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Database Parameter",
+      "Database Management",
+      "Database Configuration",
+      "Amazon DocumentDB",
+      "AWS DocumentDB"
+    ]
+  },
+  {
+    "Component": "DocumentDB Cluster",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Database",
+      "NoSQL",
+      "High Availability",
+      "Scalability",
+      "Document-oriented Storage",
+      "Amazon DocumentDB",
+      "AWS DocumentDB"
+    ]
+  },
+  {
+    "Component": "EC2 Image Builder Container Recipe",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Infrastructure as Code",
+      "Container Image Building",
+      "Docker",
+      "EC2 Image Builder",
+      "AWS"
+    ]
+  },
+  {
+    "Component": "EC2 Image Builder Image Recipe",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Infrastructure as Code",
+      "AMI Creation",
+      "Golden Image",
+      "EC2 Image Builder",
+      "AWS"
+    ]
+  },
+  {
+    "Component": "EC2 Image Builder Infrastructure Configuration",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Infrastructure as Code",
+      "EC2 Image Builder",
+      "AWS"
+    ]
+  },
+  {
+    "Component": "EC2 Image Builder Distribution Configuration",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Automated Image Distribution",
+      "Golden AMI",
+      "Pipeline Orchestration",
+      "EC2 Image Builder",
+      "AWS"
+    ]
+  },
+  {
+    "Component": "Google Cloud Analytics Hub",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Analytics Management",
+      "Data Decision Making",
+      "Data Visualization",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud AlloyDB for PostgreSQL",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Cloud-Based Database",
+      "OLTP Database",
+      "Managed Database Service",
+      "PostgreSQL",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Bare Metal Solution",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Bare Metal Services",
+      "High Performance Computing",
+      "Enterprise Workloads",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Scheduler",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Job Scheduler",
+      "Automated Tasks",
+      "Cron Jobs",
+      "Job Orchestration",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Source Repositories",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Code Repository",
+      "Git Hosting",
+      "Team Collaboration",
+      "Version Control",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Tasks",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Task Queue",
+      "Asynchronous Tasks",
+      "Distributed System",
+      "Background Processing",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Deploy",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Continuous Deployment",
+      "Container Orchestration",
+      "Kubernetes Engine",
+      "CI/CD Pipeline",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Tools for Eclipse",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Cloud-Based Development",
+      "Eclipse Plugins",
+      "Application Development",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Tools for Powershell",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Cloud-PowerShell Cmdlets",
+      "Automation and Management",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Healthcare API",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Healthcare Data Management",
+      "HL7v2",
+      "FHIR",
+      "DICOM",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Service Catalog",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Cloud-Based Services",
+      "Orchestration Platform",
+      "Service Management",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Game Servers",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Game Hosting",
+      "Multiplayer Games",
+      "Game Servers Management",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Live Stream API",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Live Video Streaming",
+      "Content Delivery",
+      "Video Conferencing",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Video Stitcher API",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Video Stitching",
+      "Video Transcoding",
+      "Media Manipulation",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Domains",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Domain Name Registration",
+      "DNS Management",
+      "SSL Certificates",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud IDS",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Threat Detection",
+      "Intrusion Prevention System",
+      "Security Management",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Network Connectivity Center",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Network Management",
+      "VPN Hub-and-Spoke Architecture",
+      "Dynamic Routing",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Access Transparency",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Access Transparency Logs",
+      "Audit Trail",
+      "Compliance",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Assured Workloads",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Compliance",
+      "Cloud-Based Workloads",
+      "HIPAA",
+      "FedRAMP",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Binary Authorization",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Container Security",
+      "Image Validation",
+      "Binary Authorization",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Chronicle Security Operations",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Threat Detection",
+      "Security Monitoring",
+      "Security Analytics Platform",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Asset Inventory",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Cloud Asset Management",
+      "Resource Tracking",
+      "Asset Metadata",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Risk Manager",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Risk Management",
+      "Risk Assessment",
+      "Security Management",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud VPC Service Controls",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "VPC Service Management",
+      "VPC Security",
+      "Access Control",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "Google Cloud Policy Intelligence",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Compliance management",
+      "GCP",
+      "Policy violation detections",
+      "Integrated solutions"
+    ]
+  },
+  {
+    "Component": "Container-Optimized OS",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Google Container-Optimized OS",
+      "Container-based Computing",
+      "Kubernetes Engine",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "User Account",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Identity Management",
+      "Access Control",
+      "Authorization",
+      "Azure Active Directory"
+    ]
+  },
+  {
+    "Component": "ElastiCache Replication Group",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Database Caching",
+      "In-Memory Data Store",
+      "Redis",
+      "Memcached",
+      "ElastiCache"
+    ]
+  },
+  {
+    "Component": "Google Cloud Routes",
+    "Cloud Provider": "GCP",
+    "Labels": [
+      "Network Route Management",
+      "Traffic Control",
+      "Routing Policy",
+      "GCP"
+    ]
+  },
+  {
+    "Component": "RDS for PostgreSQL",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Relational Database Service",
+      "PostgreSQL",
+      "Managed Database Service",
+      "Database Management",
+      "AWS RDS"
+    ]
+  },
+  {
+    "Component": "Dynatrace",
+    "Cloud Provider": "",
+    "Labels": [
+      "Application Performance Monitoring",
+      "Digital Experience Management",
+      "Cloud Infrastructure Monitoring",
+      "AI-powered Observability"
+    ]
+  },
+  {
+    "Component": "Jenkins",
+    "Cloud Provider": "",
+    "Labels": [
+      "Continuous Integration",
+      "Continuous Delivery",
+      "Pipeline Automation",
+      "Jenkins"
+    ]
+  },
+  {
+    "Component": "PostgreSQL",
+    "Cloud Provider": "",
+    "Labels": [
+      "Relational Database Management System",
+      "Open Source Database",
+      "ACID Compliance",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "Component": "Spinnaker",
+    "Cloud Provider": "",
+    "Labels": [
+      "Continuous Delivery Platform",
+      "Multi-Cloud Deployment",
+      "Flexible Pipelines",
+      "Spinnaker"
+    ]
+  },
+  {
+    "Component": "ECR Registry Policy",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Docker Image Registry",
+      "Policy Management",
+      "Container Security",
+      "AWS ECR"
+    ]
+  },
+  {
+    "Component": "ECR Pull Through Cache Rule",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Docker Image Caching",
+      "Performance Optimization",
+      "Accelerated Container Image Distribution",
+      "AWS ECR"
+    ]
+  },
+  {
+    "Component": "EventBridge Rule",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Event Routing",
+      "Event Filtering",
+      "Event Extraction",
+      "Serverless Architecture",
+      "AWS EventBridge"
+    ]
+  },
+  {
+    "Component": "EventBridge Schema",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Schema Registry",
+      "Event Structuring",
+      "Schema Management",
+      "AWS EventBridge"
+    ]
+  },
+  {
+    "Component": "EventBridge Pipes",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Event Transformation",
+      "Event Routing",
+      "Event Rules Engine",
+      "AWS EventBridge"
+    ]
+  },
+  {
+    "Component": "EventBridge Scheduler",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Scheduled Events",
+      "Cron Jobs",
+      "Serverless Computing",
+      "AWS EventBridge"
+    ]
+  },
+  {
+    "Component": "Systems Manager Patch Baseline",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Patch Management",
+      "Security Compliance",
+      "Automated Patching",
+      "AWS Systems Manager"
+    ]
+  },
+  {
+    "Component": "AWS Resource Groups",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Resource Grouping & Tagging",
+      "AWS Resource Groups",
+      "Inventory Management",
+      "Cost Allocation"
+    ]
+  },
+  {
+    "Component": "Service Catalog CloudFormation Product",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Product Catalog Management",
+      "Service Management",
+      "CloudFormation Templates",
+      "AWS Service Catalog"
+    ]
+  },
+  {
+    "Component": "Service Catalog Portfolio",
+    "Cloud Provider": "AWS",
+    "Labels": [
+      "Portfolio Management",
+      "Service Management",
+      "AWS Service Catalog"
+    ]
+  },
+  {
+    "Component": "Log Analytics",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Cloud-Based Log Management",
+      "Data Analysis",
+      "IT Infrastructure Insights",
+      "Azure Log Analytics"
+    ]
+  },
+  {
+    "Component": "Synapse Analytics",
+    "Cloud Provider": "Azure",
+    "Labels": [
+      "Big Data Analytics",
+      "Data Warehousing",
+      "Integrated Workspace",
+      "Azure Synapse Analytics"
+    ]
+  },
+  {
+    "Component": "Python",
+    "Cloud Provider": "",
+    "Labels": [
+      "Programming Language",
+      "Scripting Language",
+      "Open Source",
+      "Python"
+    ]
+  },
+  {
+    "Component": "Unknown",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Test",
+      "Department"
+    ]
+  },
+  {
+    "Component": "Component2",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Component3",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Protocol1",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Protocol"
+    ]
+  },
+  {
+    "Component": "Protocol2",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Protocol"
+    ]
+  },
+  {
+    "Component": "Protocol3",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Protocol"
+    ]
+  },
+  {
+    "Component": "Trust Boundary",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Security",
+      "Boundary"
+    ]
+  },
+  {
+    "Component": "New Trust Boundary",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Security",
+      "Boundary"
+    ]
+  },
+  {
+    "Component": "Interchangeable entity",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "trust",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Security",
+      "Trust"
+    ]
+  },
+  {
+    "Component": "Entity to change",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Interchangeble 1",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Interchangeable 2",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Comp11",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Comp101 edited",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Comp102000",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Comp103",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "ncomp1",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "TB04042023",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Security",
+      "Trust",
+      "Boundary"
+    ]
+  },
+  {
+    "Component": "Comp106",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Comp107",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Comp108",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "neeraj",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "neeraj",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Comp200",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Comp201",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Comp202",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Comp203",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Test234_1",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Test"
+    ]
+  },
+  {
+    "Component": "OneComponent",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "OneComponent",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "New Demo Pat",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "TestComponent",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Test"
+    ]
+  },
+  {
+    "Component": "newcompa",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "newcompa1",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "newcompa2",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "newcompa3",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "newcompa4",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "newcompa5",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "newcompa6",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "newcompa7",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "demcom",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "demcom1",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "demcomp5",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "demcomp6",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "demcopm7",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "demcom98",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "demcom99",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "demcom100",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "SB-Component",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "SB-NEW-COMPONENT",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Comp103 Deep Copy",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "NewEn",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Alexa for business",
+    "Cloud Provider": "Amazon Web Services",
+    "Labels": [
+      "Alexa",
+      "Business"
+    ]
+  },
+  {
+    "Component": "test delete me",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Test"
+    ]
+  },
+  {
+    "Component": "d18042023 Deep Copy",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "chinese component",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "Terraform Component",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Infrastructure as Code",
+      "Terraform"
+    ]
+  },
+  {
+    "Component": "test23 Deep Copy",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "DD",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "compo123",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "030423 Copy",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "test",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Test"
+    ]
+  },
+  {
+    "Component": "test english",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Test"
+    ]
+  },
+  {
+    "Component": "test",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Test"
+    ]
+  },
+  {
+    "Component": "New Component from TF",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Terraform"
+    ]
+  },
+  {
+    "Component": "tes01",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "p1",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "TESTCMP",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Test"
+    ]
+  },
+  {
+    "Component": "Comp106 Deep Copy",
+    "Cloud Provider": "None",
+    "Labels": []
+  },
+  {
+    "Component": "TestGK",
+    "Cloud Provider": "None",
+    "Labels": [
+      "Test"
+    ]
+  }
+]

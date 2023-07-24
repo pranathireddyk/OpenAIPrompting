@@ -1,0 +1,34 @@
+import json
+import re
+
+def parsed(json_string):
+    try:
+        k = json.loads(json_string)
+        return k
+    except:
+        print(json_string)
+    return None
+
+def writeIntoFile(result):
+    parsed_objects = []
+    for json_string in result:
+        json_temp = parsed(json_string)
+        if json_temp:
+            parsed_objects.append(json_temp)
+            result_json = json.dumps(parsed_objects, indent=2)
+            print(result_json)  
+    with open('json.txt', 'a', newline='') as file:
+        file.write(result_json)
+
+def retrieve_json_objects_from_file(file_path):
+    pattern = r"{\s*\"Component\":.*?}"
+    json_objects = []
+    with open(file_path, 'r') as file:
+        data = file.read()
+        json_objects = re.findall(pattern, data, re.DOTALL)
+    return json_objects
+
+file_path = 'nonjson.txt'
+
+json_objects = retrieve_json_objects_from_file("file_path")
+writeIntoFile(json_objects)

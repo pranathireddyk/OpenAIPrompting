@@ -1,0 +1,49 @@
+What is the type of application?
+Web Application
+Mobile Application
+Batch Processing
+ETL
+Do you have restful APIs in your application?
+Does your application support SSO?
+Does your application require any SQL database?
+What is the type of SQL database?
+Microsoft SQL Server
+MySQL
+Postgress
+SQLite
+Are you using any unstructured database?
+What kind of database are you using?
+JSON document
+NoSQL
+Are you doing load balancing for your application?
+Do you have any web application firewalls in place?
+Are your endpoints accessible via HTTPS only
+Where the application is hosted on?
+On-Prem Private Data Center
+Public Cloud Provider
+What cloud provider you are using?
+AWS
+Azure
+GCP
+Other
+Shared Hosting
+What is the architecture of the mobile application?
+Monolithic
+Microservices
+Are you using any Container Orchestration tools?
+Which Container Orchestration tool you are using?
+Kubernetes
+EKS
+ECS
+GKE
+AKS
+Does your application send an outbound email?
+Are you using a self-hosted SMTP Server?
+Does your application use any queue to de-couple components?
+Which queue are you using?
+RabbitMQ
+AWS SQS
+Apache ActiveMQ
+Is your application accessible from the public internet?
+Is your application & database server deployed in a public subnet?
+Is your application & database server deployed in the same subnet?
